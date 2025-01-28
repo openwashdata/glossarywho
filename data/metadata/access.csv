@@ -1,0 +1,5 @@
+fileName,name,contentUrl,encodingFormat
+definitions.csv,definitions,https://raw.githubusercontent.com/openwashdata/definitions/main/inst/extdata/definitions.csv,csv
+themes.csv,themes,https://raw.githubusercontent.com/openwashdata/themes/main/inst/extdata/themes.csv,ooxml
+definitions.xlsx,definitions,https://raw.githubusercontent.com/openwashdata/definitions/main/inst/extdata/definitions.xlsx,csv
+themes.xlsx,themes,https://raw.githubusercontent.com/openwashdata/themes/main/inst/extdata/themes.xlsx,ooxml

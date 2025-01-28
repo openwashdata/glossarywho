@@ -1,0 +1,5 @@
+directory,file_name,variable_name,variable_type,description
+data/,definitions.rda,Term,character,Term in the Glossary
+data/,definitions.rda,Description,character,Description of the term
+data/,themes.rda,Thematic Area,character,Thematic Area
+data/,themes.rda,Term,character,Term in the Glossary

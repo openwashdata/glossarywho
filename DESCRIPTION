@@ -1,0 +1,20 @@
+Package: glossarywho
+Type: Package
+Title: WHO Glossary
+Version: 0.1.0
+Authors@R: c(
+    person("Yash", "Dubey", , "ydubey@ethz.ch", role = c("cre", "aut"),
+           comment = c(ORCID = "0009-0001-2849-970X"))
+  )
+Description: This package provides access to a tidy version of the WHO Glossary (https://www.who.int/publications/i/item/9789240105485) and thematic areas for each term.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5)
+RoxygenNote: 7.3.2
+Language: en-GB
+Config/Needs/website: rmarkdown
+Date: 2025-01-28
+URL: https://github.com/openwashdata/glossarywho
+BugReports: https://github.com/openwashdata/glossarywho/issues

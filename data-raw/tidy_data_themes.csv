@@ -1,0 +1,234 @@
+Thematic Area,Term
+"Data source,collection, and collation",Data accessibility
+"Data source,collection, and collation",Data type
+"Data source,collection, and collation",Primary data
+"Data source,collection, and collation",Data collection level
+"Data source,collection, and collation",Digital health
+"Data source,collection, and collation",Response rate
+"Data source,collection, and collation",Data collection method
+"Data source,collection, and collation",Geospatial data
+"Data source,collection, and collation",Secondary data
+"Data source,collection, and collation",Data element
+"Data source,collection, and collation",Health data
+"Data source,collection, and collation",Sex
+"Data source,collection, and collation","Data information
+pyramid"
+"Data source,collection, and collation",Home-based record
+"Data source,collection, and collation",Survey
+"Data source,collection, and collation",Data inputs
+"Data source,collection, and collation",Measurement level
+"Data source,collection, and collation",Survey data
+"Data source,collection, and collation",Data integration
+"Data source,collection, and collation",Microdata
+"Data source,collection, and collation",Surveillance
+"Data source,collection, and collation",Data life cycle
+"Data source,collection, and collation",Population-based survey
+"Data source,collection, and collation",Understandable/simplicity
+"Data source,collection, and collation",Data source
+"Data source,collection, and collation",Population census
+"Data source,collection, and collation",Unit of measure
+"Data source,collection, and collation",Data standards
+"Data source,collection, and collation",Preferred data sources
+"Data security, protection, governance and standards",Compliance
+"Data security, protection, governance and standards",Data steward
+"Data security, protection, governance and standards",Mortality data
+"Data security, protection, governance and standards",Confidentiality
+"Data security, protection, governance and standards",Data stewardship
+"Data security, protection, governance and standards",National health strategic plan
+"Data security, protection, governance and standards",Data access control
+"Data security, protection, governance and standards",Focal point
+"Data security, protection, governance and standards",National statistics office
+"Data security, protection, governance and standards",Data anonymization
+"Data security, protection, governance and standards",International Classification of Diseases
+"Data security, protection, governance and standards",Notifiable conditions
+"Data security, protection, governance and standards",Data consent
+"Data security, protection, governance and standards",International Health Regulations
+"Data security, protection, governance and standards",Publicly available
+"Data security, protection, governance and standards",Data custodian
+"Data security, protection, governance and standards",Master facility list
+"Data security, protection, governance and standards",Stakeholder
+"Data security, protection, governance and standards",Data governance
+"Data security, protection, governance and standards","Medical Certificate 
+Cause of Death"
+"Data security, protection, governance and standards",Standard operating procedures
+"Data security, protection, governance and standards",Data privacy
+"Data security, protection, governance and standards",Morbidity data
+"Data security, protection, governance and standards","Sustainable
+Development Goals"
+"Data security, protection, governance and standards",Data provider
+"Data security, protection, governance and standards",Mortality coder
+"Data security, protection, governance and standards",Transparency
+"Data security, protection, governance and standards",Data security
+Disaggregation of public health data/indicators,Administrative area
+Disaggregation of public health data/indicators,Disaggregation
+Disaggregation of public health data/indicators,Global Health Observatory
+Disaggregation of public health data/indicators,"Age groupings
+recommended"
+Disaggregation of public health data/indicators,Gender
+Disaggregation of public health data/indicators,Granularity
+Disaggregation of public health data/indicators,Age specific mortality rate
+Disaggregation of public health data/indicators,Geocoding
+Disaggregation of public health data/indicators,Health inequality
+Disaggregation of public health data/indicators,Catchment area
+Disaggregation of public health data/indicators,Geo-enablement
+Disaggregation of public health data/indicators,Health inequity
+Disaggregation of public health data/indicators,Causes of death
+Disaggregation of public health data/indicators,"Geographic
+accessibility"
+Disaggregation of public health data/indicators,Subnational
+Estimation methods,Covariates
+Estimation methods,Global health estimates_
+Estimation methods,Method of aggregate estimation
+Estimation methods,Estimation methods
+Estimation methods,Health estimates
+Health Information systems,Birth registration data
+Health Information systems,Health management information system
+Health Information systems,Registry
+Health Information systems,"Civil registration and
+vital statistics"
+Health Information systems,Health facility census
+Health Information systems,Register
+Health Information systems,"Death registration
+data"
+Health Information systems,Health facility survey
+Health Information systems,Registrar
+Health Information systems,"Death registration
+desk"
+Health Information systems,Health survey
+Health Information systems,Registration form
+Health Information systems,Disease surveillance system
+Health Information systems,Individual health record
+Health Information systems,Verbal autopsy
+Health Information systems,Event-based surveillance
+Health Information systems,Public health surveillance system
+Health Information systems,Vital event
+Health Information systems,Geographic information system
+Health Information systems,Raw health data
+Health Information systems,Vital statistics
+Health Information systems,Health and demographic surveillance system
+Health Information systems,Routine data
+Health Information systems,Health information system
+Health Information systems,Routine health information system
+Indicator Terminology,Composite indicator_
+Indicator Terminology,Metadata_
+Indicator Terminology,Output indicator
+Indicator Terminology,Core indicator
+Indicator Terminology,"Indicator
+classification"
+Indicator Terminology,Process indicator
+Indicator Terminology,Domain
+Indicator Terminology,Indicator definition
+Indicator Terminology,Proxy health indicator
+Indicator Terminology,Health indicator
+Indicator Terminology,Input indicator
+Indicator Terminology,Rationale
+Indicator Terminology,Impact indicator
+Indicator Terminology,Logic model
+Indicator Terminology,Tracer indicator
+Indicator Terminology,"Indicator-based
+surveillance"
+Indicator Terminology,Outcome indicator
+Methods to assess data quality,Accuracy_
+Methods to assess data quality,Data quality assurance
+Methods to assess data quality,Punctuality
+Methods to assess data quality,Completeness of reporting
+Methods to assess data quality,Internal consistency of data
+Methods to assess data quality,Relevance
+Methods to assess data quality,Construct validity
+Methods to assess data quality,"Internal
+responsiveness"
+Methods to assess data quality,Reliability of data
+Methods to assess data quality,Content validity
+Methods to assess data quality,External consistency of data
+Methods to assess data quality,Representativeness
+Methods to assess data quality,Convergent validity
+Methods to assess data quality,"External
+responsiveness"
+Methods to assess data quality,Responsiveness
+Methods to assess data quality,Credibility
+Methods to assess data quality,Feasibility
+Methods to assess data quality,Sustainability
+Methods to assess data quality,Criterion validity
+Methods to assess data quality,Gold standard
+Methods to assess data quality,Timeliness
+Methods to assess data quality,Data integrity
+Methods to assess data quality,Predictive validity
+Methods to assess data quality,Usefulness/utility
+Methods to assess data quality,Data quality
+Methods to assess data quality,Process of validation
+Methods to assess data quality,Validity
+Methods to assess data quality,"Data quality
+assessment"
+Monitoring and evaluation terms,Accountability
+Monitoring and evaluation terms,Joint external evaluation_
+Monitoring and evaluation terms,Results framework
+Monitoring and evaluation terms,Evaluation
+Monitoring and evaluation terms,Monitoring
+Monitoring and evaluation terms,Target population
+Monitoring and evaluation terms,"Health impact
+assessment"
+Monitoring and evaluation terms,Monitoring and evaluation Framework
+Quality of Care measurement,Care cascade
+Quality of Care measurement,Outcome-adjusted coverage
+Quality of Care measurement,Quality-adjusted coverage
+Quality of Care measurement,Effective coverage
+Statistical and analytical terms,Chi-square (_2 ) test
+Statistical and analytical terms,Interoperability
+Statistical and analytical terms,P value
+Statistical and analytical terms,Confounding
+Statistical and analytical terms,Kappa statistic
+Statistical and analytical terms,Rate
+Statistical and analytical terms,Correlation analysis
+Statistical and analytical terms,Linkage
+Statistical and analytical terms,Ratio
+Statistical and analytical terms,Count
+Statistical and analytical terms,Mean
+Statistical and analytical terms,Record linkage
+Statistical and analytical terms,Data
+Statistical and analytical terms,Measure
+Statistical and analytical terms,Regression
+Statistical and analytical terms,Data harmonization
+Statistical and analytical terms,Measurement
+Statistical and analytical terms,Sample
+Statistical and analytical terms,Data triangulation
+Statistical and analytical terms,Measurement method
+Statistical and analytical terms,Sample size
+Statistical and analytical terms,Denominator
+Statistical and analytical terms,Median
+Statistical and analytical terms,Sampling error
+Statistical and analytical terms,Descriptive analysis
+Statistical and analytical terms,"National
+representative"
+Statistical and analytical terms,Sensitivity analysis
+Statistical and analytical terms,Disability adjusted life years
+Statistical and analytical terms,Negative predictive value
+Statistical and analytical terms,Statistical model
+Statistical and analytical terms,Ecological analysis
+Statistical and analytical terms,Null hypothesis
+Statistical and analytical terms,Statistical significance
+Statistical and analytical terms,Ecological fallacy
+Statistical and analytical terms,Numerator
+Statistical and analytical terms,Statistics
+Statistical and analytical terms,Effect size
+Statistical and analytical terms,Odds ratio
+Statistical and analytical terms,Stratification
+Statistical and analytical terms,Geospatial analysis
+Statistical and analytical terms,Percentage
+Statistical and analytical terms,Trend
+Statistical and analytical terms,Healthy life expectancy at birth
+Statistical and analytical terms,Periodicity
+Statistical and analytical terms,Uncertainty measure
+Statistical and analytical terms,Heaping of data
+Statistical and analytical terms,Population attributable fraction
+Statistical and analytical terms,Weighting
+Statistical and analytical terms,Incidence rate
+Statistical and analytical terms,Positive Predictive Value
+Statistical and analytical terms,Years of life lost
+Statistical and analytical terms,Imputation
+Statistical and analytical terms,Prevalence Rate
+Statistical and analytical terms,"Years lived with
+disability"
+Statistical and analytical terms,Interaction
+Statistical and analytical terms,Processed health data
+Statistical and analytical terms,Intervention coverage
+Statistical and analytical terms,Proportion

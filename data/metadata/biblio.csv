@@ -1,0 +1,2 @@
+title,description,datePublished,citation,keywords,license,funder,geographicDescription,northBoundCoord,eastBoundCoord,southBoundCoord,westBoundCoord,wktString,startDate,endDate
+WHO Glossary,This package provides access to a tidy version of the WHO Glossary (https://www.who.int/publications/i/item/9789240105485) and thematic areas for each term.,28.01.2025,NA,"who, glossary, definitions",CC BY 4.0,https://ethrat.ch/en/eth-domain/open-research-data/,NA,NA,NA,NA,NA,NA,NA,NA
