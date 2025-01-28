@@ -1,0 +1,36 @@
+{
+  "@context": "https://openwashdata.org/",
+  "@type": "Dataset",
+  "name": ["definitions", "themes"],
+  "description": "This package provides access to a tidy version of the WHO Glossary (https://www.who.int/publications/i/item/9789240105485) and thematic areas for each term.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "openwashdata @ Global Health Engineering, ETH Zurich",
+    "url": "https://openwashdata.org/"
+  },
+  "datePublished": "2025-01-28",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "keywords": "who, glossary, definitions",
+  "distribution": {
+    "@type": "DataDownload",
+    "url": "https://raw.githubusercontent.com/openwashdata/definitions/main/inst/extdata/definitions.csv",
+    "contentUrl": "https://raw.githubusercontent.com/openwashdata/definitions/main/inst/extdata/definitions.csv",
+    "encodingFormat": "text/csv"
+  },
+  "encodingFormat": "CSV",
+  "version": "1.0",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": null
+  },
+  "temporalCoverage": {
+    "@type": "DateTime",
+    "startDate": null,
+    "endDate": null
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Yash Dubey",
+    "email": "ydubey@ethz.ch"
+  }
+}

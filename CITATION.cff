@@ -1,0 +1,28 @@
+# --------------------------------------------
+# CITATION file created with {cffr} R package
+# See also: https://docs.ropensci.org/cffr/
+# --------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "glossarywho" in publications use:'
+type: software
+license: CC-BY-4.0
+title: 'glossarywho: WHO Glossary'
+version: 0.1.0
+doi: 10.5281/zenodo.14754017
+abstract: This package provides access to a tidy version of the WHO Glossary (https://www.who.int/publications/i/item/9789240105485)
+  and thematic areas for each term.
+authors:
+- family-names: Dubey
+  given-names: Yash
+  email: ydubey@ethz.ch
+  orcid: https://orcid.org/0009-0001-2849-970X
+repository-code: https://github.com/openwashdata/glossarywho
+url: https://github.com/openwashdata/glossarywho
+date-released: '2025-01-28'
+contact:
+- family-names: Dubey
+  given-names: Yash
+  email: ydubey@ethz.ch
+  orcid: https://orcid.org/0009-0001-2849-970X
+
