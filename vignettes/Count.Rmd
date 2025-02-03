@@ -1,0 +1,8 @@
+---
+title: "Count"
+output: rmarkdown::html_document
+---
+
+# Count
+
+A count gives the number of occurrences  of the elements being measured  (e.g. health  event(s), facilities, health  workers  etc.), within a specified time  and at a specified  place. It is an  integer,  without any denominator (23).

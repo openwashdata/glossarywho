@@ -1,0 +1,8 @@
+---
+title: "Mortality coder"
+output: rmarkdown::html_document
+---
+
+# Mortality coder
+
+The trained person that registers medical  conditions and events reported in Medical  Certificate of Cause of Death forms to  determine the underlying cause of death  and assign mortality codes using ICD rules  and principles (10).

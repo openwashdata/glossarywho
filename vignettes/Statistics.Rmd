@@ -1,0 +1,8 @@
+---
+title: "Statistics"
+output: rmarkdown::html_document
+---
+
+# Statistics
+
+The science of using information  discovered from  collecting, organizing and  studying numbers (26,27,143).

@@ -1,0 +1,8 @@
+---
+title: "Delineated geographical areas within"
+output: rmarkdown::html_document
+---
+
+# Delineated geographical areas within
+
+a particular territory created for the  purpose of  administration. For  example:  county, district, province, state, region,  subnational or national (3).

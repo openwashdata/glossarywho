@@ -1,0 +1,8 @@
+---
+title: "Proxy health indicator"
+output: rmarkdown::html_document
+---
+
+# Proxy health indicator
+
+An indicator that stands in for another  indicator or topic that is difficult to  measure or for which data are limited (83).

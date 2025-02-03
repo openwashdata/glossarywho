@@ -1,0 +1,8 @@
+---
+title: "Weighting"
+output: rmarkdown::html_document
+---
+
+# Weighting
+
+A technique used to adjust data to reflect  the known population  profile. It is used  to balance out any significant variance  between actual and target  profile.  Weighted analyses of  population-based  surveys allow us to generalize findings  to a larger or more general  population.  This approach aims to provide unbiased  estimates of descriptive statistics or  model parameters of the population  of interest, which may be a general  population or major population  subgroup.  Incorporating weights in the analyses can  be crucial to achieve statistically  valid,  representative  population-based findings  in surveys and to make adjustments for  sampling errors (153).Y

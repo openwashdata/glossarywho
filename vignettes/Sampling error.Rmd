@@ -1,0 +1,8 @@
+---
+title: "Sampling error"
+output: rmarkdown::html_document
+---
+
+# Sampling error
+
+That part of the difference between a  population value and an estimate  thereof,  derived from a random  sample, which is  due to the fact that only a subset of the  population is enumerated (137).

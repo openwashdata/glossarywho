@@ -1,0 +1,8 @@
+---
+title: "Geo-enablement"
+output: rmarkdown::html_document
+---
+
+# Geo-enablement
+
+To apply geospatial capabilities to a  business process in order to establish the  authoritative spatial location of business  data and enable contextual spatial  analysis (70).

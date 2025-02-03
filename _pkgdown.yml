@@ -1,28 +1,261 @@
-
 url: https://github.com/openwashdata/glossarywho
 template:
   bootstrap: 5
   includes:
     in_header: |
       <script defer data-domain="openwashdata.github.io" src="https://plausible.io/js/script.js"></script>
-
 home:
   links:
-    - icon: github
-      text: GitHub repository
-      href: https://github.com/openwashdata/glossarywho
+  - icon: github
+    text: GitHub repository
+    href: https://github.com/openwashdata/glossarywho
   sidebar:
-    structure: [links, citation, authors, dev, custom]
+    structure:
+    - links
+    - citation
+    - authors
+    - dev
+    - custom
     components:
       custom:
         title: Funding
-        text: This project was funded by the [Open Research Data Program of the ETH Board](https://ethrat.ch/en/eth-domain/open-research-data/).
-
+        text: This project was funded by the [Open Research Data Program of the ETH
+          Board](https://ethrat.ch/en/eth-domain/open-research-data/).
 authors:
   footer:
-    roles: [cre, fnd]
-    text: "Crafted by"
+    roles:
+    - cre
+    - fnd
+    text: Crafted by
   sidebar:
-    roles: [cre, aut, ctb]
-    before: "So *who* does the work?"
-    after: "Thanks all!"
+    roles:
+    - cre
+    - aut
+    - ctb
+    before: So *who* does the work?
+    after: Thanks all!
+navbar:
+  structure:
+    left:
+    - intro
+    - reference
+    - articles
+    - tutorials
+    - news
+    right:
+    - search
+    - github
+articles:
+- title: Themes
+  navbar: Themes
+  contents: Themes
+- title: Definitions
+  contents:
+  - Accountability
+  - Accuracy
+  - Age groupings
+  - Age-specific mortality rate
+  - Birth registration data
+  - Care cascade
+  - Catchment area
+  - Causes of death
+  - Chi-square (χ2) test
+  - Civil registration and vital statistics
+  - Completeness of reporting
+  - Composite indicator
+  - Confidentiality
+  - Confounding
+  - Construct validity
+  - Content validity
+  - Convergent validity
+  - Core indicator
+  - Correlation analysis
+  - Count
+  - Covariates
+  - Credibility
+  - Criterion validity
+  - Data access control
+  - Data accessibility
+  - Data anonymization
+  - Data collection level
+  - Data collection method
+  - Data consent
+  - Data custodian
+  - Data element
+  - Data governance
+  - Data harmonization
+  - Data inputs
+  - Data integration
+  - Data integrity
+  - Data life cycle
+  - Data privacy
+  - Data provider
+  - Data quality assurance
+  - Data quality
+  - Data security
+  - Data source
+  - Data standards
+  - Data steward
+  - Data stewardship
+  - Data triangulation
+  - Data type
+  - Data
+  - Death registration data
+  - Death registration desk
+  - Delineated geographical areas within
+  - Denominator
+  - Descriptive  cross-sectional
+  - Descriptive analysis
+  - Digital health
+  - Disaggregation
+  - Disease surveillance system
+  - Domain
+  - Ecological analysis
+  - Ecological fallacy
+  - Effect size
+  - Effective coverage
+  - Estimation method
+  - Evaluation
+  - External consistency of data
+  - External responsiveness
+  - Feasibility
+  - Focal point
+  - Gender
+  - Geo-enablement
+  - Geocoding
+  - Geographic accessibility
+  - Geographic information systems
+  - Geospatial analysis
+  - Global health estimates
+  - Global Health Observatory
+  - Gold standard
+  - Government agency or institution
+  - Granularity
+  - Health and demographic surveillance system
+  - Health data
+  - Health estimates
+  - Health facility census
+  - Health facility survey
+  - Health impact assessment
+  - Health indicator
+  - Health inequality
+  - Health inequity
+  - Health information system
+  - Health management information
+  - Health survey
+  - Healthy life expectancy at birth
+  - Heaping of data
+  - Home-based record
+  - Impact indicator
+  - Imputation
+  - Incidence rate
+  - Indicator classification
+  - Indicator definition
+  - Indicator-based surveillance commonly
+  - Indicator-based surveillance
+  - Individual health record
+  - Input indicator
+  - Interaction
+  - Internal consistency of data
+  - Internal responsiveness
+  - International Classification of Diseases (ICD)
+  - International Health Regulations
+  - Interoperability
+  - Intervention coverage
+  - Joint external evaluation
+  - Kappa statistic (K)
+  - Linkage
+  - Logic model
+  - Master facility list
+  - Mean
+  - Measure
+  - Measurement method
+  - Measurement
+  - Median
+  - Metadata
+  - Method of aggregate estimation
+  - Microdata
+  - Monitoring and evaluation (M&E)
+  - Monitoring
+  - Morbidity data
+  - Mortality coder
+  - Mortality data
+  - National health strategic plan
+  - Nationally representative
+  - Negative predictive value
+  - Notifiable conditions
+  - Null hypothesis
+  - Numerator
+  - Odds ratio
+  - Outcome indicator
+  - Outcome-adjusted coverage
+  - Output indicator
+  - P value
+  - Percentage
+  - Periodicity
+  - Population attributable fraction
+  - Population census
+  - Positive predictive value
+  - Predictive validity
+  - Prevalence rate
+  - Primary data
+  - Process indicator
+  - Process of validation
+  - Processed health data
+  - Proportion
+  - Proxy health indicator
+  - Public health surveillance system
+  - Publicly available
+  - Punctuality
+  - Quality-adjusted coverage
+  - Rate
+  - Ratio
+  - Rationale
+  - Raw health data
+  - Record linkage
+  - Register
+  - Registrar
+  - Registration form
+  - Registry
+  - Regression
+  - Relevance
+  - Representativeness
+  - Response rate
+  - Responsiveness
+  - Results framework
+  - Routine data
+  - Routine health information system
+  - Sample size
+  - Sample
+  - Sampling error
+  - Secondary data
+  - Sensitivity analysis
+  - Sex
+  - Stakeholder
+  - Standard operating procedures
+  - Statistical model
+  - Statistical significance
+  - Statistics
+  - Stratification
+  - Subnational
+  - Surveillance
+  - Survey data
+  - Survey
+  - Sustainability
+  - Sustainable Development Goals (SDGs)
+  - Target population
+  - Timeliness
+  - Tracer indicator
+  - Transparency
+  - Trend
+  - Uncertainty measure
+  - Unit of measure
+  - Usefulness or Utility
+  - Validity
+  - Verbal autopsy
+  - Vital event
+  - Vital statistics
+  - Weighting
+  - Years lived with disability
+  - Years of life lost
+

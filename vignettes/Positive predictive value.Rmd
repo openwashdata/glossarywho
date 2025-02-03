@@ -1,0 +1,8 @@
+---
+title: "Positive predictive value"
+output: rmarkdown::html_document
+---
+
+# Positive predictive value
+
+Is the probability that following a positive  test  result, a given individual will truly  have that specific  disease. It is defined as  the number of true positives (people who  test positive and have a  condition) divided  by the total number of people who test  positive (113).

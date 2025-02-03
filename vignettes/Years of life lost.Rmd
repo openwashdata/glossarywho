@@ -1,0 +1,8 @@
+---
+title: "Years of life lost"
+output: rmarkdown::html_document
+---
+
+# Years of life lost
+
+Represents the loss of one year of  life.  Years of life lost are calculated from the  number of deaths multiplied by a global  standard life expectancy at the age at  which death occurs (154).

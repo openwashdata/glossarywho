@@ -1,0 +1,8 @@
+---
+title: "Processed health data"
+output: rmarkdown::html_document
+---
+
+# Processed health data
+
+Health statistics that have been  calculated from raw health  data, but are  not the result of synthesizing multiple  data  sources. Examples of processing  raw health data include cleaning data by  removing implausible  values, calculating  an indicator with an  algorithm, or  adjusting a statistic for bias (24).A Z16

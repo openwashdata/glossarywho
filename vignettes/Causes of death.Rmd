@@ -1,0 +1,8 @@
+---
+title: "Causes of death"
+output: rmarkdown::html_document
+---
+
+# Causes of death
+
+For the matters of international and  national standard  reporting, the  definition  is: The disease or injury that  initiated the train of morbid events leading  directly to  death, or the circumstances of  the accident or violence which produced  the fatal  injury. The fully specified title  is:  “Single underlying cause of  death” . It is  different from multiple cause analysis  and other concepts like direct cause or  cause determined by verbal  autopsy. See also “International Classification of Diseases” (10,11).

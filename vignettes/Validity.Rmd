@@ -1,0 +1,8 @@
+---
+title: "Validity"
+output: rmarkdown::html_document
+---
+
+# Validity
+
+Ability of an indicator to measure what  it is intended to measure (i.e. absence  of distortions, bias or systematic  errors).  The most relevant biases are those related  to selection of the study population  and the quality of the information  compiled (23).

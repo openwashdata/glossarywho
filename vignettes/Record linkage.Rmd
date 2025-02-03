@@ -1,0 +1,8 @@
+---
+title: "Record linkage"
+output: rmarkdown::html_document
+---
+
+# Record linkage
+
+The methodology of bringing together  corresponding records from two or more  files or finding duplicates within files (128) .A

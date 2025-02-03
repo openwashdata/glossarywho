@@ -1,0 +1,8 @@
+---
+title: "Kappa statistic (K)"
+output: rmarkdown::html_document
+---
+
+# Kappa statistic (K)
+
+A statistical measure of  inter-rater  reliability for categorical variables (98).

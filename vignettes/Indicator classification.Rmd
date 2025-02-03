@@ -1,0 +1,8 @@
+---
+title: "Indicator classification"
+output: rmarkdown::html_document
+---
+
+# Indicator classification
+
+The level of measurement provided by  the indicator; this can be one of five levels  starting with input (lowest) and moving  through  process, output, outcome and  finally impact (highest) (21).

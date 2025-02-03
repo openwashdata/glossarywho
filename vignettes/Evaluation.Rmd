@@ -1,0 +1,8 @@
+---
+title: "Evaluation"
+output: rmarkdown::html_document
+---
+
+# Evaluation
+
+A process that attempts to determine as  systematically and objectively as possible  the relevance, effectiveness and impact of  activities in light of their objectives (21).Event-based surveillance The organized and rapid capture of  information about incidents that are  a potential risk to public  health. This  information can be rumours and other  ad hoc reports transmitted through  formal channels (i.e. established  routine reporting  systems) and informal  channels (i.e. media, health workers  and nongovernmental  organizations’  reports) (64).

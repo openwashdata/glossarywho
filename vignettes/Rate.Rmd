@@ -1,0 +1,8 @@
+---
+title: "Rate"
+output: rmarkdown::html_document
+---
+
+# Rate
+
+An expression of the frequency with which  an event occurs in a defined  population,  usually in a specified period of  time. The  components of a rate are the  numerator,  the denominator, the specified time  in which events  occur, and usually  a multiplier, that converts the rate from  a fraction or decimal to a whole  number.  The numerator is the absolute number of  occurrences of the event being studied  in a specified  time. The denominator is  the reference population (or population  being  studied) at the same time (17,23).

@@ -1,0 +1,8 @@
+---
+title: "Relevance"
+output: rmarkdown::html_document
+---
+
+# Relevance
+
+The degree to which the data meet the  user  needs. Indicators must provide  information that is appropriate and useful  for guiding policies and programmes as  well as for  decision-making (2,23).Reliability of data The degree to which the results  obtained by a  measurement/procedure  can be  replicated. Consistency of  the data when collected repeatedly  using the same procedures and under  the same circumstances [synonym:  replicability] (13,23).

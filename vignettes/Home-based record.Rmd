@@ -1,0 +1,8 @@
+---
+title: "Home-based record"
+output: rmarkdown::html_document
+---
+
+# Home-based record
+
+A health document used to record the  history of health services received by  an individual. It is kept in the  household,  in either paper or electronic  format, by the  individual or their caregiver and is intended  to be integrated into the health information  system and complement records  maintained by health facilities (90).I

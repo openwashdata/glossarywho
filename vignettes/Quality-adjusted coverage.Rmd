@@ -1,0 +1,8 @@
+---
+title: "Quality-adjusted coverage"
+output: rmarkdown::html_document
+---
+
+# Quality-adjusted coverage
+
+An assessment metric that evaluates how  effectively a health intervention reaches a  target population and the quality of care  that is  provided. This measure combines  intervention coverage rates with quality  measures to better understand the overall  impact of health programmes (8,125,126).R

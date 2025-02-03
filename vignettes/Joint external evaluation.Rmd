@@ -1,0 +1,8 @@
+---
+title: "Joint external evaluation"
+output: rmarkdown::html_document
+---
+
+# Joint external evaluation
+
+Voluntary, collaborative, multisectoral process to assess country capacities  to prevent, detect and rapidly respond to  public health risks (97).A Z12

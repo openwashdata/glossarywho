@@ -1,0 +1,8 @@
+---
+title: "Chi-square (χ2) test"
+output: rmarkdown::html_document
+---
+
+# Chi-square (χ2) test
+
+The  Chi-square test of independence (also  known as the Pearson  Chi-square  test)  is one of the most useful statistics for  testing hypotheses when the variables  are nominal, as often happens in  clinical  research. Unlike most  statistics,  the Chi-square (χ2) test can provide  information not only on the significance  of any observed  differences, but also  provides detailed information on  exactly which categories account for any  differences found (12).

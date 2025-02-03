@@ -1,0 +1,8 @@
+---
+title: "Health estimates"
+output: rmarkdown::html_document
+---
+
+# Health estimates
+
+Quantitative  population-level estimates (including  global, regional,  national or subnational  estimates) of  health  indicators, including indicators of  health status such as estimates of total  and  cause-specific  mortality, incidence  and prevalence of  diseases, injuries and  disability and  functioning; and indicators  of health  determinants, including health  behaviours and health exposures (24).

@@ -1,0 +1,8 @@
+---
+title: "Mean"
+output: rmarkdown::html_document
+---
+
+# Mean
+
+The average of a set of values (103).

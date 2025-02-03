@@ -1,0 +1,8 @@
+---
+title: "International Health Regulations"
+output: rmarkdown::html_document
+---
+
+# International Health Regulations
+
+It is an instrument of international law  that is  legally-binding on 196  countries,  including the 194 WHO Member  States.  The International Health Regulations grew  out of the response to deadly epidemics  that once overran  Europe. They create  rights and obligations for  countries,  including the requirement to report public  health events (95).

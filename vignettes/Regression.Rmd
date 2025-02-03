@@ -1,0 +1,8 @@
+---
+title: "Regression"
+output: rmarkdown::html_document
+---
+
+# Regression
+
+A statistical technique that relates a  dependent variable to one or more  independent (explanatory) variables (17).

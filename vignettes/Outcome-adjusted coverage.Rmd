@@ -1,0 +1,8 @@
+---
+title: "Outcome-adjusted coverage"
+output: rmarkdown::html_document
+---
+
+# Outcome-adjusted coverage
+
+The proportion of a population that  benefits from an intervention after  considering the quality or effectiveness  of the  intervention. In this  measure,  coverage is not just about access to  services but also reflects whether the  intervention had a positive health  impact. It adjusts traditional intervention coverage estimates by incorporating the  actual outcomes of the health services  provided (8).

@@ -1,0 +1,8 @@
+---
+title: "Data privacy"
+output: rmarkdown::html_document
+---
+
+# Data privacy
+
+The rights and practices that ensure  individuals have control over how their  personal information is  collected, used,  shared and  maintained. It focuses on  protecting personal data from misuse and  ensuring that individuals can determine  who has access to their  data, how it  is used, and for what purposes (45).

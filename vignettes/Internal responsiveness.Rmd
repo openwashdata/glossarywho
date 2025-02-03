@@ -1,0 +1,8 @@
+---
+title: "Internal responsiveness"
+output: rmarkdown::html_document
+---
+
+# Internal responsiveness
+
+Characterises the ability of a measure  to change over a prespecified time  frame (65).

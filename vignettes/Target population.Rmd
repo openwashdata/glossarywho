@@ -1,0 +1,8 @@
+---
+title: "Target population"
+output: rmarkdown::html_document
+---
+
+# Target population
+
+A population about which information  is wanted and estimates are  required. It  can be a group of individuals who meet  specific criteria for inclusion in a  survey.  In relation to health  care, it is often a  group of individuals in need of a specific  intervention or service (146).A Z20

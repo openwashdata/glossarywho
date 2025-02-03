@@ -1,0 +1,8 @@
+---
+title: "Unit of measure"
+output: rmarkdown::html_document
+---
+
+# Unit of measure
+
+Unit of measure in which the indicator is  presented (e.g. deaths per 1000 live  births;  US$; litres per person per  year). Note:  Percentage is not considered a  unit of measure and indicators that are  presented as percentages should have  the unit of measure field filled in as ‘n/a’

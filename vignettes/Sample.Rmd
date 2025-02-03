@@ -1,0 +1,8 @@
+---
+title: "Sample"
+output: rmarkdown::html_document
+---
+
+# Sample
+
+Sample is a subset of a population (136).

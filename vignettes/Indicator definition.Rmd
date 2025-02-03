@@ -1,0 +1,8 @@
+---
+title: "Indicator definition"
+output: rmarkdown::html_document
+---
+
+# Indicator definition
+
+How the indicator is  measured,  including  numerators, denominators,  data type and disaggregation in  common  use. The indicator definition  should be unambiguous and be expressed  in universally applicable terms (23,92).A

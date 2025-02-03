@@ -1,0 +1,8 @@
+---
+title: "Notifiable conditions"
+output: rmarkdown::html_document
+---
+
+# Notifiable conditions
+
+A disease  that, when  diagnosed, requires  health providers (usually by  law) to  report to  national, state or local public  health  officials. Notifiable diseases  are of public interest due to reasons  including their  contagiousness, severity or  frequency (114).

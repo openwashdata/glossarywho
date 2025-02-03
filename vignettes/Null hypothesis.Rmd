@@ -1,0 +1,8 @@
+---
+title: "Null hypothesis"
+output: rmarkdown::html_document
+---
+
+# Null hypothesis
+
+The claim that the effect being studied  does not  exist. It can also be described as  the hypothesis in which no relationship  exists between two sets of data or  variables being analysed (115).

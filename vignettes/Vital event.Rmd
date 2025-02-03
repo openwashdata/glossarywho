@@ -1,0 +1,8 @@
+---
+title: "Vital event"
+output: rmarkdown::html_document
+---
+
+# Vital event
+
+Events that are captured through civil  registration and vital statistic  systems,  which usually include live  birth, death,  fetal  death, marriage, divorce, annulment  of marriage, judicial separation  of marriage, adoption, legitimation,  recognition of  parenthood, or change of  name or nationality (151).

@@ -1,0 +1,8 @@
+---
+title: "Core indicator"
+output: rmarkdown::html_document
+---
+
+# Core indicator
+
+Core indicators may be defined in  collaboration with all key stakeholders  (e.g. ministry of  health, national  statistics  office, other relevant  ministries,  professional  organizations, experts, and  major  disease-focused  programmes),  and depends on the priority monitoring  requirements related to health and  health- related  SDGs, among other health  priorities (21).

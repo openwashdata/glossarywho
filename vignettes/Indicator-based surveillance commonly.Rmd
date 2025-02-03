@@ -1,0 +1,8 @@
+---
+title: "Indicator-based surveillance commonly"
+output: rmarkdown::html_document
+---
+
+# Indicator-based surveillance commonly
+
+comes from health care facilities and can  be regularly reported (64).

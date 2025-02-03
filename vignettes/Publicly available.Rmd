@@ -1,0 +1,8 @@
+---
+title: "Publicly available"
+output: rmarkdown::html_document
+---
+
+# Publicly available
+
+Information in any form that is  generally  accessible, without  restriction, to  the public (124).

@@ -1,0 +1,8 @@
+---
+title: "Data custodian"
+output: rmarkdown::html_document
+---
+
+# Data custodian
+
+Agencies or individuals responsible for managing the  use, disclosure and  protection of source data used to create  health  indicators. Data custodians collect  and hold information on behalf of a data  provider or data steward (34).

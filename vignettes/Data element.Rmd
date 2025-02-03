@@ -1,0 +1,8 @@
+---
+title: "Data element"
+output: rmarkdown::html_document
+---
+
+# Data element
+
+The smallest named item of data that  conveys meaningful information (35).

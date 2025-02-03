@@ -1,0 +1,8 @@
+---
+title: "Routine health information system"
+output: rmarkdown::html_document
+---
+
+# Routine health information system
+
+A system that generates data collected  at public and private health facilities  and  institutions, and at  community-level  health care posts and clinics – at regular  intervals of a year at  minimum. The data  give a picture of health  status, health  services and health  resources. Most of the  data are gathered by health care  providers,  by supervisors and through routine health  facility  surveys. The sources of those data  are generally individual health  records,  records of services  delivered, and resource  health records including  financial,  commodity or laboratory records (51,86).

@@ -1,0 +1,8 @@
+---
+title: "National health strategic plan"
+output: rmarkdown::html_document
+---
+
+# National health strategic plan
+
+A plan that includes a set of priorities  and activities to achieve key milestones  that will have impact beyond the  health  sector. It includes  medium-  and  long-term expected  outcomes,  and concrete and realistic allocation  of resources to implement the  activities within clear  timing. The plan  concretizes  priorities; keeps focus  on medium- and  long-term goals without  deviating from an optimal  path. It  integrates the health  sector; helps focus  the policy dialogue on health  priorities;  and guides operational  planning, resource  allocation and health sector monitoring  and evaluation (110).

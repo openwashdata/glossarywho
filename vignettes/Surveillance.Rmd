@@ -1,0 +1,8 @@
+---
+title: "Surveillance"
+output: rmarkdown::html_document
+---
+
+# Surveillance
+
+The  continuous, systematic  collection,  analysis, interpretation, and dissemination  of data needed for the  planning,  implementation and evaluation of  public health  actions. Some examples  are public health surveillance  system,  indicator-based  surveillance, disease surveillance  system, demographic  surveillance  system, etc. (144).

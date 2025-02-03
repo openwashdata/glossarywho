@@ -1,0 +1,8 @@
+---
+title: "Ecological analysis"
+output: rmarkdown::html_document
+---
+
+# Ecological analysis
+
+Ecological analysis is a research  methodology that investigates the  relationships between different factors  and health outcomes or other phenomena  at the group  level, rather than focusing  on individuals. This approach entails  analysing data gathered from populations  or communities to uncover  patterns,  disparities, correlations, and possible  causal relationships (17).A

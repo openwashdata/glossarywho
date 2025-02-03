@@ -1,0 +1,8 @@
+---
+title: "Measure"
+output: rmarkdown::html_document
+---
+
+# Measure
+
+A standard unit used to express the  size,  amount, or degree of something (23).

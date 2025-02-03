@@ -1,0 +1,8 @@
+---
+title: "Care cascade"
+output: rmarkdown::html_document
+---
+
+# Care cascade
+
+A systematic framework used to track  patient outcomes across the stages  of care, from diagnosis to treatment and  ultimately to successful  outcomes. Each  stage in the cascade identifies gaps in care  that can prevent individuals from reaching  the outcome such as receiving proper  treatment or achieving disease  control.  The model was first developed in 1978 by  Tanahasi to identify gaps and barriers in  health systems performance (7,8).

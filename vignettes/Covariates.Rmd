@@ -1,0 +1,8 @@
+---
+title: "Covariates"
+output: rmarkdown::html_document
+---
+
+# Covariates
+
+Data, including  non-health  data, which  are used in a statistical model to improve  the estimation of the health indicator  of interest. These data are  population- specific and are available for every  population included in the  analysis. For example, a common covariate is gross  domestic product per capita (24).

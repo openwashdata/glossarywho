@@ -1,0 +1,8 @@
+---
+title: "Effect size"
+output: rmarkdown::html_document
+---
+
+# Effect size
+
+Refers to the magnitude of the expected  difference between two groups in a  study,  which is expressed as an  estimate. It is a  crucial factor in determining the sample  size needed for a  study, with a smaller  effect size requiring a larger sample size  for detection (63).

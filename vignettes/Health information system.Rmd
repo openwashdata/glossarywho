@@ -1,0 +1,8 @@
+---
+title: "Health information system"
+output: rmarkdown::html_document
+---
+
+# Health information system
+
+A system that collects data from health  and other relevant  sectors, analyses the  data and ensures their overall  quality,  relevance and  timeliness, and converts  the data into information for  health- related  decision-making. It has four  key functions: (i) data  generation; (ii)  compilation; (iii) analysis and  synthesis;  and (iv) communication and  use. A solid  health information system will be capable  of generating reliable data from  hospitals,  outpatients, reportable diseases  registries,  surveys, civil registration and vital  statistics and other relevant data for health

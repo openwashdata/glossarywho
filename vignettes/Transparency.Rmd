@@ -1,0 +1,8 @@
+---
+title: "Transparency"
+output: rmarkdown::html_document
+---
+
+# Transparency
+
+Any information or communication relating to the processing of personal  data is easily accessible and easy  to understand, and that clear and plain  language be  used. Individuals should be  made aware of  risks, rules, safeguards  and rights in relation to the processing of  personal data and how to exercise their  rights in relation to such processing (147).

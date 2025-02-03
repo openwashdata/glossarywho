@@ -1,0 +1,8 @@
+---
+title: "Secondary data"
+output: rmarkdown::html_document
+---
+
+# Secondary data
+
+Data that was originally collected for  other  purposes. The data from these  existing sources are considered  secondary.  Although these data were not created for  the purpose at  hand, they facilitate the  development of the required  indicators.  Data from a  census, research,  information  system, etc. are secondary  data (23).

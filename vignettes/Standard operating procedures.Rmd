@@ -1,0 +1,8 @@
+---
+title: "Standard operating procedures"
+output: rmarkdown::html_document
+---
+
+# Standard operating procedures
+
+A set of  step-by-step documented  instructions created by an organization to  ensure consistency in carrying out tasks  and that standards are followed (140).

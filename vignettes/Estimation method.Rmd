@@ -1,0 +1,8 @@
+---
+title: "Estimation method"
+output: rmarkdown::html_document
+---
+
+# Estimation method
+
+The steps taken to generate  health  estimates. An explanation of the  method should include how the indicator  is calculated, including mathematical  formulas and descriptive information  of computations made on the source  data to produce the estimate (including  adjustments and  weighting). Reporting  on methods used should align with the  Guidelines for accurate and transparent  health estimates reporting  (GATHER) (24).

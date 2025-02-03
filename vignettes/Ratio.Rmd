@@ -1,0 +1,8 @@
+---
+title: "Ratio"
+output: rmarkdown::html_document
+---
+
+# Ratio
+
+The result of dividing one quantity by  another without regard for details such as  a time  dimension. Rates, proportions and  percentages are all types of  ratios. The  distinction between a proportion and a  ratio is  that, whereas the numerator of a  proportion is included in the population  defined by the  denominator, this is not  necessarily so for a  ratio, which expresses  the relationship of two separate and  distinct  quantities, neither of which is  included in the other (17).

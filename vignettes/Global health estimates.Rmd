@@ -1,0 +1,8 @@
+---
+title: "Global health estimates"
+output: rmarkdown::html_document
+---
+
+# Global health estimates
+
+WHO estimates on death and  disability  globally, by region and  country,  available by  age, sex and  cause. These  provide key insights on mortality and  morbidity trends and are a powerful tool  to support informed  decision-making on  health policy and resource allocation (76).

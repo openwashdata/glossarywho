@@ -1,0 +1,8 @@
+---
+title: "Verbal autopsy"
+output: rmarkdown::html_document
+---
+
+# Verbal autopsy
+
+An interview carried out with family  members or caregivers of the deceased  using a structured questionnaire to elicit  signs and symptoms and other pertinent  information that can later be used to  assign a probable underlying cause of  death (150).A

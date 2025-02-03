@@ -1,0 +1,8 @@
+---
+title: "Granularity"
+output: rmarkdown::html_document
+---
+
+# Granularity
+
+Granularity is the level of detail of the  data (78).

@@ -1,0 +1,8 @@
+---
+title: "Health survey"
+output: rmarkdown::html_document
+---
+
+# Health survey
+
+A survey that is designed to gather  information about health (physical  and  mental) and  health-related  factors.  Health surveys generally include measures  of risk  factors, health  behaviours, and  non- health determinants or correlates of  health such as socioeconomic  status. The  range of measures that can be included  is wide and varies by  survey. Age, sex/ gender and  race/ethnicity are the basic  demographic variables that are included  in health  surveys. Socioeconomic  determinants of health include  education,  income, geographic region and  rural/ urban residence (87).

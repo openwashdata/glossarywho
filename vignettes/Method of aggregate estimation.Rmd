@@ -1,0 +1,8 @@
+---
+title: "Method of aggregate estimation"
+output: rmarkdown::html_document
+---
+
+# Method of aggregate estimation
+
+Description of the  methodology, including  any mathematical  formulas, used for  the calculation of the  regional/global  aggregates from country values (106).

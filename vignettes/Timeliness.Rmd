@@ -1,0 +1,8 @@
+---
+title: "Timeliness"
+output: rmarkdown::html_document
+---
+
+# Timeliness
+
+When the data is quickly available  and accessible for  use. In the context  of data  quality, the degree to which  reports are submitted on time according  to established  deadlines. Timeliness  involves the availability and reliability  of the data at the time it is needed to  construct related  indicators. Thus, timely  indicators provide better opportunities for  making  health-related decisions (13,23,66).

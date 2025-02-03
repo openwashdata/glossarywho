@@ -1,0 +1,8 @@
+---
+title: "Odds ratio"
+output: rmarkdown::html_document
+---
+
+# Odds ratio
+
+A measure of association between an  exposure and an  outcome. It represents  the odds (or  probability) that an outcome  will occur given a particular  exposure,  compared to the odds of the outcome  occurring in the absence of that  exposure.  The numerator is the proportion of the  event of  interest, and the denominator is  the proportion of the  non-event (23).

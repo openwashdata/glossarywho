@@ -1,0 +1,8 @@
+---
+title: "Registration form"
+output: rmarkdown::html_document
+---
+
+# Registration form
+
+The registration form is the paper or  electronic format that is used to register a  vital event (131).

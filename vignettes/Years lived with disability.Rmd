@@ -1,0 +1,8 @@
+---
+title: "Years lived with disability"
+output: rmarkdown::html_document
+---
+
+# Years lived with disability
+
+Represents the equivalent of one full year  of healthy life lost due to disability or  ill- health. The prevalence of years lived with  disability are calculated as the prevalence  of each  non-fatal condition multiplied by  its disability weight (155).A Z22     Glossary terms by related thematic  areas Users of this glossary may wish to know which terms align with different data concepts or  thematic  areas. Below the glossary terms are grouped according to thematic  areas. Some  terms may appear in more than one thematic  area.

@@ -1,0 +1,8 @@
+---
+title: "Percentage"
+output: rmarkdown::html_document
+---
+
+# Percentage
+
+Number or ratio that can be expressed as a  fraction of 100 (117).

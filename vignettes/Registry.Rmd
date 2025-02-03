@@ -1,0 +1,8 @@
+---
+title: "Registry"
+output: rmarkdown::html_document
+---
+
+# Registry
+
+A collection of information about  individuals, usually focused  on a specific diagnosis or  conditions.  Registry data is stored in a database and  can provide health care providers and  researchers with  first-hand information  about people with specific  conditions,  both individually and as a  group, and  over  time. Patient registries are different  from health facility registers in that the  former collect patient information that  is disease- or  condition-specific whereas  the later collect information about the  patient regardless of their condition or  disease (130).

@@ -1,0 +1,8 @@
+---
+title: "Data provider"
+output: rmarkdown::html_document
+---
+
+# Data provider
+
+Individuals and organizations who are responsible, whether formally  or informally, for making data accessible  to others. Sometimes a data provider may  be simply the producer of those  data. In  other  cases, data may be deposited in  a repository, centre or archive that has  the responsibility of disseminating the  data (46).

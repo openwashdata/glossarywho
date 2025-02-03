@@ -1,0 +1,8 @@
+---
+title: "Routine data"
+output: rmarkdown::html_document
+---
+
+# Routine data
+
+Data generated as part of regular  operational or administrative processes  within the health care  system. These  data are systematically collected during  the delivery of health services and the  management of health  facilities. Routine   data includes patient  demographics,  health  conditions, treatments and   outcomes recorded in health facility   registers, electronic health  records, and  health management information  systems.  It also covers information related to health  service  resources, such as  infrastructure,   human  resources, and financial   transactions. The primary purpose of  routine data is to support daily  operations,  monitor service  delivery, and facilitate    decision-making across various levels of  the health  system. This is also referred to  as administrative data (134,135).
