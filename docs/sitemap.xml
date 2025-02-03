@@ -3,6 +3,7 @@
 <url><loc>https://github.com/openwashdata/glossarywho/LICENSE.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Accountability.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Accuracy.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Administrative area.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Age groupings.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Age-specific mortality rate.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Birth registration data.html</loc></url>
@@ -12,6 +13,7 @@
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Chi-square (χ2) test.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Civil registration and vital statistics.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Completeness of reporting.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Compliance.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Composite indicator.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Confidentiality.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Confounding.html</loc></url>
@@ -34,12 +36,14 @@
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data element.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data governance.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data harmonization.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Data information pyramid.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data inputs.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data integration.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data integrity.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data life cycle.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data privacy.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data provider.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Data quality assessment.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data quality assurance.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data quality.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Data security.html</loc></url>
@@ -57,6 +61,7 @@
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Descriptive  cross-sectional.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Descriptive analysis.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Digital health.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Disability adjusted life years (DALYs).html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Disaggregation.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Disease surveillance system.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Domain.html</loc></url>
@@ -66,6 +71,7 @@
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Effective coverage.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Estimation method.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Evaluation.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Event-based surveillance.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/External consistency of data.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/External responsiveness.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Feasibility.html</loc></url>
@@ -76,6 +82,7 @@
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Geographic accessibility.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Geographic information systems.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Geospatial analysis.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Geospatial data.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Global Health Observatory.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Global health estimates.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Gold standard.html</loc></url>
@@ -91,6 +98,7 @@
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Health inequality.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Health inequity.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Health information system.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Health management information system.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Health management information.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Health survey.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Healthy life expectancy at birth.html</loc></url>
@@ -119,18 +127,22 @@
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Master facility list.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Mean.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Measure.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Measurement level.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Measurement method.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Measurement.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Median.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Medical certification of cause of death.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Metadata.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Method of aggregate estimation.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Microdata.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Monitoring and evaluation (M&amp;E) framework.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Monitoring and evaluation (M&amp;E).html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Monitoring.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Morbidity data.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Mortality coder.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Mortality data.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/National health strategic plan.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/National statistics office.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Nationally representative.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Negative predictive value.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Notifiable conditions.html</loc></url>
@@ -145,8 +157,10 @@
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Periodicity.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Population attributable fraction.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Population census.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Population-based survey.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Positive predictive value.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Predictive validity.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Preferred data sources.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Prevalence rate.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Primary data.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Process indicator.html</loc></url>
@@ -169,6 +183,7 @@
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Registry.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Regression.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Relevance.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Reliability of data.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Representativeness.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Response rate.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Responsiveness.html</loc></url>
@@ -200,6 +215,7 @@
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Transparency.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Trend.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Uncertainty measure.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/articles/Understandable or simplicty.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Unit of measure.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Usefulness or Utility.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/articles/Validity.html</loc></url>
@@ -215,5 +231,6 @@
 <url><loc>https://github.com/openwashdata/glossarywho/reference/definitions.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/reference/index.html</loc></url>
 <url><loc>https://github.com/openwashdata/glossarywho/reference/themes.html</loc></url>
+<url><loc>https://github.com/openwashdata/glossarywho/themes.html</loc></url>
 </urlset>
 

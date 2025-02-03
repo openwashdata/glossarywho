@@ -1,0 +1,8 @@
+---
+title: "Preferred data sources"
+output: rmarkdown::html_document
+---
+
+# Preferred data sources
+
+The recommended source of data  for a specific health  indicator. This  can include: civil registration and  vital statistics  systems; surveillance;  national  population-based  surveys;  routine facility information  systems;  health facility  assessments; administrative  data  sources; human resources  information  systems; laboratory  information systems (50,51).

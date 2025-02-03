@@ -53,6 +53,7 @@ articles:
   contents:
   - Accountability
   - Accuracy
+  - Administrative area
   - Age groupings
   - Age-specific mortality rate
   - Birth registration data
@@ -62,6 +63,7 @@ articles:
   - Chi-square (χ2) test
   - Civil registration and vital statistics
   - Completeness of reporting
+  - Compliance
   - Composite indicator
   - Confidentiality
   - Confounding
@@ -84,6 +86,7 @@ articles:
   - Data element
   - Data governance
   - Data harmonization
+  - Data information pyramid
   - Data inputs
   - Data integration
   - Data integrity
@@ -91,6 +94,7 @@ articles:
   - Data privacy
   - Data provider
   - Data quality assurance
+  - Data quality assessment
   - Data quality
   - Data security
   - Data source
@@ -107,6 +111,7 @@ articles:
   - Descriptive  cross-sectional
   - Descriptive analysis
   - Digital health
+  - Disability adjusted life years (DALYs)
   - Disaggregation
   - Disease surveillance system
   - Domain
@@ -116,6 +121,7 @@ articles:
   - Effective coverage
   - Estimation method
   - Evaluation
+  - Event-based surveillance
   - External consistency of data
   - External responsiveness
   - Feasibility
@@ -126,6 +132,7 @@ articles:
   - Geographic accessibility
   - Geographic information systems
   - Geospatial analysis
+  - Geospatial data
   - Global health estimates
   - Global Health Observatory
   - Gold standard
@@ -141,7 +148,7 @@ articles:
   - Health inequality
   - Health inequity
   - Health information system
-  - Health management information
+  - Health management information system
   - Health survey
   - Healthy life expectancy at birth
   - Heaping of data
@@ -170,17 +177,20 @@ articles:
   - Mean
   - Measure
   - Measurement method
+  - Measurement level
   - Measurement
   - Median
+  - Medical certification of cause of death
   - Metadata
   - Method of aggregate estimation
   - Microdata
-  - Monitoring and evaluation (M&E)
+  - Monitoring and evaluation (M&E) framework
   - Monitoring
   - Morbidity data
   - Mortality coder
   - Mortality data
   - National health strategic plan
+  - National statistics office
   - Nationally representative
   - Negative predictive value
   - Notifiable conditions
@@ -194,9 +204,11 @@ articles:
   - Percentage
   - Periodicity
   - Population attributable fraction
+  - Population-based survey
   - Population census
   - Positive predictive value
   - Predictive validity
+  - Preferred data sources
   - Prevalence rate
   - Primary data
   - Process indicator
@@ -219,6 +231,7 @@ articles:
   - Registry
   - Regression
   - Relevance
+  - Reliability of data
   - Representativeness
   - Response rate
   - Responsiveness
@@ -251,6 +264,7 @@ articles:
   - Uncertainty measure
   - Unit of measure
   - Usefulness or Utility
+  - Understandable or simplicty
   - Validity
   - Verbal autopsy
   - Vital event
@@ -258,4 +272,5 @@ articles:
   - Weighting
   - Years lived with disability
   - Years of life lost
+
 

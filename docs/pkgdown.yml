@@ -4,6 +4,7 @@ pkgdown_sha: ~
 articles:
   Accountability: Accountability.html
   Accuracy: Accuracy.html
+  Administrative area: Administrative area.html
   Age groupings: Age groupings.html
   Age-specific mortality rate: Age-specific mortality rate.html
   Birth registration data: Birth registration data.html
@@ -13,6 +14,7 @@ articles:
   Chi-square (χ2) test: Chi-square (χ2) test.html
   Civil registration and vital statistics: Civil registration and vital statistics.html
   Completeness of reporting: Completeness of reporting.html
+  Compliance: Compliance.html
   Composite indicator: Composite indicator.html
   Confidentiality: Confidentiality.html
   Confounding: Confounding.html
@@ -35,12 +37,14 @@ articles:
   Data element: Data element.html
   Data governance: Data governance.html
   Data harmonization: Data harmonization.html
+  Data information pyramid: Data information pyramid.html
   Data inputs: Data inputs.html
   Data integration: Data integration.html
   Data integrity: Data integrity.html
   Data life cycle: Data life cycle.html
   Data privacy: Data privacy.html
   Data provider: Data provider.html
+  Data quality assessment: Data quality assessment.html
   Data quality assurance: Data quality assurance.html
   Data quality: Data quality.html
   Data security: Data security.html
@@ -58,6 +62,7 @@ articles:
   Descriptive  cross-sectional: Descriptive  cross-sectional.html
   Descriptive analysis: Descriptive analysis.html
   Digital health: Digital health.html
+  Disability adjusted life years (DALYs): Disability adjusted life years (DALYs).html
   Disaggregation: Disaggregation.html
   Disease surveillance system: Disease surveillance system.html
   Domain: Domain.html
@@ -67,6 +72,7 @@ articles:
   Effective coverage: Effective coverage.html
   Estimation method: Estimation method.html
   Evaluation: Evaluation.html
+  Event-based surveillance: Event-based surveillance.html
   External consistency of data: External consistency of data.html
   External responsiveness: External responsiveness.html
   Feasibility: Feasibility.html
@@ -77,6 +83,7 @@ articles:
   Geographic accessibility: Geographic accessibility.html
   Geographic information systems: Geographic information systems.html
   Geospatial analysis: Geospatial analysis.html
+  Geospatial data: Geospatial data.html
   Global health estimates: Global health estimates.html
   Global Health Observatory: Global Health Observatory.html
   Gold standard: Gold standard.html
@@ -93,7 +100,7 @@ articles:
   Health inequality: Health inequality.html
   Health inequity: Health inequity.html
   Health information system: Health information system.html
-  Health management information: Health management information.html
+  Health management information system: Health management information system.html
   Health survey: Health survey.html
   Healthy life expectancy at birth: Healthy life expectancy at birth.html
   Heaping of data: Heaping of data.html
@@ -122,18 +129,21 @@ articles:
   Master facility list: Master facility list.html
   Mean: Mean.html
   Measure: Measure.html
+  Measurement level: Measurement level.html
   Measurement method: Measurement method.html
   Measurement: Measurement.html
   Median: Median.html
+  Medical certification of cause of death: Medical certification of cause of death.html
   Metadata: Metadata.html
   Method of aggregate estimation: Method of aggregate estimation.html
   Microdata: Microdata.html
-  Monitoring and evaluation (M&E): Monitoring and evaluation (M&E).html
+  Monitoring and evaluation (M&E) framework: Monitoring and evaluation (M&E) framework.html
   Monitoring: Monitoring.html
   Morbidity data: Morbidity data.html
   Mortality coder: Mortality coder.html
   Mortality data: Mortality data.html
   National health strategic plan: National health strategic plan.html
+  National statistics office: National statistics office.html
   Nationally representative: Nationally representative.html
   Negative predictive value: Negative predictive value.html
   Notifiable conditions: Notifiable conditions.html
@@ -148,8 +158,10 @@ articles:
   Periodicity: Periodicity.html
   Population attributable fraction: Population attributable fraction.html
   Population census: Population census.html
+  Population-based survey: Population-based survey.html
   Positive predictive value: Positive predictive value.html
   Predictive validity: Predictive validity.html
+  Preferred data sources: Preferred data sources.html
   Prevalence rate: Prevalence rate.html
   Primary data: Primary data.html
   Process indicator: Process indicator.html
@@ -172,6 +184,7 @@ articles:
   Registry: Registry.html
   Regression: Regression.html
   Relevance: Relevance.html
+  Reliability of data: Reliability of data.html
   Representativeness: Representativeness.html
   Response rate: Response rate.html
   Responsiveness: Responsiveness.html
@@ -203,6 +216,7 @@ articles:
   Transparency: Transparency.html
   Trend: Trend.html
   Uncertainty measure: Uncertainty measure.html
+  Understandable or simplicty: Understandable or simplicty.html
   Unit of measure: Unit of measure.html
   Usefulness or Utility: Usefulness or Utility.html
   Validity: Validity.html
@@ -212,7 +226,7 @@ articles:
   Weighting: Weighting.html
   Years lived with disability: Years lived with disability.html
   Years of life lost: Years of life lost.html
-last_built: 2025-02-03T10:06Z
+last_built: 2025-02-03T13:05Z
 urls:
   reference: https://github.com/openwashdata/glossarywho/reference
   article: https://github.com/openwashdata/glossarywho/articles

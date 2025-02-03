@@ -1,0 +1,8 @@
+---
+title: "Data information pyramid"
+output: rmarkdown::html_document
+---
+
+# Data information pyramid
+
+A schematic way of looking at the number  of data items to be collected at each level  of the health system allowing each level to  gather data of importance and relevance  to their daily work while avoiding  excessive data collection where no action  is taken. The pyramid illustrates how  most data are collected at the base of the  pyramid in the health  facility, where most  health service action takes  place. Data  are processed, filtered, and streamlined  as data sets that are then passed up the  health system (38).

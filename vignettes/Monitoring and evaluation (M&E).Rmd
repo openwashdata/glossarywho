@@ -1,8 +1,0 @@
----
-title: "Monitoring and evaluation (M&E)"
-output: rmarkdown::html_document
----
-
-# Monitoring and evaluation (M&E)
-
-framework A structured and systematic tool used in  project management and programme  implementation to assess  performance,  measure  outcomes, and ensure  the achievement of  objectives. It  consists of several core  components,  including clear project  objectives,  key performance  indicators, data  collection  methods, data  sources,  and  responsibilities. It defines how data  will be  collected, analysed and  reported,  ensuring that the project or programme  remains on track (100,101).
