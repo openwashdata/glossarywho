@@ -21,6 +21,35 @@ editor_options:
     wrap: 72
 ---
 
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 2px solid #ddd;
+}
+
+th, td {
+  border: 1px solid #ddd;  /* Ensures vertical and horizontal borders */
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+td a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+td a:hover {
+  text-decoration: underline;
+}
+</style>
+
+
 ## Data source,collection, and collation
 
 |  |  |  |  |
@@ -28,9 +57,9 @@ editor_options:
 | [Data accessibility](https://openwashdata.github.io/glossarywho/articles/Data%20accessibility.html) | [Data type](https://openwashdata.github.io/glossarywho/articles/Data%20type.html) | [Primary data](https://openwashdata.github.io/glossarywho/articles/Primary%20data.html) | [Data collection level](https://openwashdata.github.io/glossarywho/articles/Data%20collection%20level.html) |
 | [Digital health](https://openwashdata.github.io/glossarywho/articles/Digital%20health.html) | [Response rate](https://openwashdata.github.io/glossarywho/articles/Response%20rate.html) | [Data collection method](https://openwashdata.github.io/glossarywho/articles/Data%20collection%20method.html) | [Geospatial data](https://openwashdata.github.io/glossarywho/articles/Geospatial%20data.html) |
 | [Secondary data](https://openwashdata.github.io/glossarywho/articles/Secondary%20data.html) | [Data element](https://openwashdata.github.io/glossarywho/articles/Data%20element.html) | [Health data](https://openwashdata.github.io/glossarywho/articles/Health%20data.html) | [Sex](https://openwashdata.github.io/glossarywho/articles/Sex.html) |
-| [Data information pyramid](file:///Users/ydubey/Desktop/glossarywho/docs/articles/Data%20information%20pyramid.html) | [Home-based record](https://openwashdata.github.io/glossarywho/articles/Home-based%20record.html) | [Survey](https://openwashdata.github.io/glossarywho/articles/Survey.html) | [Data inputs](https://openwashdata.github.io/glossarywho/articles/Data%20inputs.html) |
+| [Data information pyramid](https://openwashdata.github.io/glossarywho/articles/Data%20information%20pyramid.html) | [Home-based record](https://openwashdata.github.io/glossarywho/articles/Home-based%20record.html) | [Survey](https://openwashdata.github.io/glossarywho/articles/Survey.html) | [Data inputs](https://openwashdata.github.io/glossarywho/articles/Data%20inputs.html) |
 | [Measurement level](https://openwashdata.github.io/glossarywho/articles/Measurement%20level.html) | [Survey data](https://openwashdata.github.io/glossarywho/articles/Survey%20data.html) | [Data integration](https://openwashdata.github.io/glossarywho/articles/Data%20integration.html) | [Microdata](https://openwashdata.github.io/glossarywho/articles/Microdata.html) |
-| [Surveillance](https://openwashdata.github.io/glossarywho/articles/Surveillance.html) | [Data life cycle](https://openwashdata.github.io/glossarywho/articles/Data%20life%20cycle.html) | [Population-based survey](https://openwashdata.github.io/glossarywho/articles/Population-based%20survey.html) | [Understandable/simplicity](https://openwashdata.github.io/glossarywho/articles/Understandable/simplicity.html) |
+| [Surveillance](https://openwashdata.github.io/glossarywho/articles/Surveillance.html) | [Data life cycle](https://openwashdata.github.io/glossarywho/articles/Data%20life%20cycle.html) | [Population-based survey](https://openwashdata.github.io/glossarywho/articles/Population-based%20survey.html) | [Understandable/simplicity](https://openwashdata.github.io/glossarywho/articles/Understandable%20or%20simplicty.html) |
 | [Data source](https://openwashdata.github.io/glossarywho/articles/Data%20source.html) | [Population census](https://openwashdata.github.io/glossarywho/articles/Population%20census.html) | [Unit of measure](https://openwashdata.github.io/glossarywho/articles/Unit%20of%20measure.html) | [Data standards](https://openwashdata.github.io/glossarywho/articles/Data%20standards.html) |
 | [Preferred data sources](https://openwashdata.github.io/glossarywho/articles/Preferred%20data%20sources.html) |  |  |  |
 
@@ -42,7 +71,7 @@ editor_options:
 | [Data stewardship](https://openwashdata.github.io/glossarywho/articles/Data%20stewardship.html) | [National health strategic plan](https://openwashdata.github.io/glossarywho/articles/National%20health%20strategic%20plan.html) | [Data access control](https://openwashdata.github.io/glossarywho/articles/Data%20access%20control.html) | [Focal point](https://openwashdata.github.io/glossarywho/articles/Focal%20point.html) |
 | [National statistics office](https://openwashdata.github.io/glossarywho/articles/National%20statistics%20office.html) | [Data anonymization](https://openwashdata.github.io/glossarywho/articles/Data%20anonymization.html) | [International Classification of Diseases (ICD)](https://openwashdata.github.io/glossarywho/articles/International%20Classification%20of%20Diseases%20(ICD).html) | [Notifiable conditions](https://openwashdata.github.io/glossarywho/articles/Notifiable%20conditions.html) |
 | [Data consent](https://openwashdata.github.io/glossarywho/articles/Data%20consent.html) | [International Health Regulations](https://openwashdata.github.io/glossarywho/articles/International%20Health%20Regulations.html) | [Publicly available](https://openwashdata.github.io/glossarywho/articles/Publicly%20available.html) | [Data custodian](https://openwashdata.github.io/glossarywho/articles/Data%20custodian.html) |
-| [Master facility list](https://openwashdata.github.io/glossarywho/articles/Master%20facility%20list.html) | [Stakeholder](https://openwashdata.github.io/glossarywho/articles/Stakeholder.html) | [Data governance](https://openwashdata.github.io/glossarywho/articles/Data%20governance.html) | [Medical Certification of Cause of Death](https://openwashdata.github.io/glossarywho/articles/Medical%20Certificate%20%20Cause%20of%20Death.html) |
+| [Master facility list](https://openwashdata.github.io/glossarywho/articles/Master%20facility%20list.html) | [Stakeholder](https://openwashdata.github.io/glossarywho/articles/Stakeholder.html) | [Data governance](https://openwashdata.github.io/glossarywho/articles/Data%20governance.html) | [Medical Certification of Cause of Death](https://openwashdata.github.io/glossarywho/articles/Medical%20certification%20of%20cause%20of%20death.html) |
 | [Standard operating procedures](https://openwashdata.github.io/glossarywho/articles/Standard%20operating%20procedures.html) | [Data privacy](https://openwashdata.github.io/glossarywho/articles/Data%20privacy.html) | [Morbidity data](https://openwashdata.github.io/glossarywho/articles/Morbidity%20data.html) | [Data provider](https://openwashdata.github.io/glossarywho/articles/Data%20provider.html) |
 | [Mortality coder](https://openwashdata.github.io/glossarywho/articles/Mortality%20coder.html) | [Transparency](https://openwashdata.github.io/glossarywho/articles/Transparency.html) | [Data security](https://openwashdata.github.io/glossarywho/articles/Data%20security.html) |  |
 
@@ -113,13 +142,13 @@ editor_options:
 
 |  |  |  |  |
 |:------------------|:-----------------|:-----------------|:-----------------|
-| [Chi-square test](https://openwashdata.github.io/glossarywho/articles/Chi-square%20(_2%20)%20test.html) | [Interoperability](https://openwashdata.github.io/glossarywho/articles/Interoperability.html) | [P value](https://openwashdata.github.io/glossarywho/articles/P%20value.html) | [Confounding](https://openwashdata.github.io/glossarywho/articles/Confounding.html) |
+| [Chi-square test](https://openwashdata.github.io/glossarywho/articles/Chi-square%20(%CF%872)%20test.html) | [Interoperability](https://openwashdata.github.io/glossarywho/articles/Interoperability.html) | [P value](https://openwashdata.github.io/glossarywho/articles/P%20value.html) | [Confounding](https://openwashdata.github.io/glossarywho/articles/Confounding.html) |
 | [Kappa Statistic (K)](https://openwashdata.github.io/glossarywho/articles/Kappa%20statistic%20(K).html) | [Rate](https://openwashdata.github.io/glossarywho/articles/Rate.html) | [Correlation analysis](https://openwashdata.github.io/glossarywho/articles/Correlation%20analysis.html) | [Linkage](https://openwashdata.github.io/glossarywho/articles/Linkage.html) |
 | [Ratio](https://openwashdata.github.io/glossarywho/articles/Ratio.html) | [Count](https://openwashdata.github.io/glossarywho/articles/Count.html) | [Mean](https://openwashdata.github.io/glossarywho/articles/Mean.html) | [Record linkage](https://openwashdata.github.io/glossarywho/articles/Record%20linkage.html) |
 | [Data](https://openwashdata.github.io/glossarywho/articles/Data.html) | [Measure](https://openwashdata.github.io/glossarywho/articles/Measure.html) | [Regression](https://openwashdata.github.io/glossarywho/articles/Regression.html) | [Data harmonization](https://openwashdata.github.io/glossarywho/articles/Data%20harmonization.html) |
 | [Measurement](https://openwashdata.github.io/glossarywho/articles/Measurement.html) | [Sample](https://openwashdata.github.io/glossarywho/articles/Sample.html) | [Data triangulation](https://openwashdata.github.io/glossarywho/articles/Data%20triangulation.html) | [Measurement method](https://openwashdata.github.io/glossarywho/articles/Measurement%20method.html) |
 | [Sample size](https://openwashdata.github.io/glossarywho/articles/Sample%20size.html) | [Denominator](https://openwashdata.github.io/glossarywho/articles/Denominator.html) | [Median](https://openwashdata.github.io/glossarywho/articles/Median.html) | [Sampling error](https://openwashdata.github.io/glossarywho/articles/Sampling%20error.html) |
-| [Descriptive analysis](https://openwashdata.github.io/glossarywho/articles/Descriptive%20analysis.html) | National representative | [Sensitivity analysis](https://openwashdata.github.io/glossarywho/articles/Sensitivity%20analysis.html) | [Disability adjusted life years](https://openwashdata.github.io/glossarywho/articles/Disability%20adjusted%20life%20years.html) |
+| [Descriptive analysis](https://openwashdata.github.io/glossarywho/articles/Descriptive%20analysis.html) | National representative | [Sensitivity analysis](https://openwashdata.github.io/glossarywho/articles/Sensitivity%20analysis.html) | [Disability adjusted life years](https://openwashdata.github.io/glossarywho/articles/Disability%20adjusted%20life%20years%20(DALYs).html) |
 | [Negative predictive value](https://openwashdata.github.io/glossarywho/articles/Negative%20predictive%20value.html) | [Statistical model](https://openwashdata.github.io/glossarywho/articles/Statistical%20model.html) | [Ecological analysis](https://openwashdata.github.io/glossarywho/articles/Ecological%20analysis.html) | [Null hypothesis](https://openwashdata.github.io/glossarywho/articles/Null%20hypothesis.html) |
 | [Statistical significance](https://openwashdata.github.io/glossarywho/articles/Statistical%20significance.html) | [Ecological fallacy](https://openwashdata.github.io/glossarywho/articles/Ecological%20fallacy.html) | [Numerator](https://openwashdata.github.io/glossarywho/articles/Numerator.html) | [Statistics](https://openwashdata.github.io/glossarywho/articles/Statistics.html) |
 | [Effect size](https://openwashdata.github.io/glossarywho/articles/Effect%20size.html) | [Odds ratio](https://openwashdata.github.io/glossarywho/articles/Odds%20ratio.html) | [Stratification](https://openwashdata.github.io/glossarywho/articles/Stratification.html) | [Geospatial analysis](https://openwashdata.github.io/glossarywho/articles/Geospatial%20analysis.html) |
