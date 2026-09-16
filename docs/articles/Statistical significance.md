@@ -1,0 +1,7 @@
+# Statistical significance
+
+## Statistical significance
+
+Mathematical measure of the probability that a result is likely due to
+chance or another factor. That is the probability of rejecting the null
+hypothesis when the null hypothesis is actually true (142).

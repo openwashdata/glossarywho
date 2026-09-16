@@ -1,0 +1,7 @@
+# Predictive validity
+
+## Predictive validity
+
+The degree to which predictions are confirmed by facts expressed in
+terms of its ability to predict future outcomes or events. Predictive
+validity is often used for impact indicators (25).

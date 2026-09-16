@@ -1,0 +1,7 @@
+# Logic model
+
+## Logic model
+
+A diagram that identifies and illustrates the linear relationships from
+programme inputs, processes, outputs, and outcomes to the impact
+(100,101).

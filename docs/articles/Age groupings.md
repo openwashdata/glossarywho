@@ -1,0 +1,9 @@
+# Age groupings
+
+## Age groupings
+
+The combining of ages into groups for the purpose of data analysis.
+These groupings usually capture a time interval representing a
+developmental stage in the life course of a human. The actual
+aggregation used depends on the purpose of the analysis and the sample
+size (4).

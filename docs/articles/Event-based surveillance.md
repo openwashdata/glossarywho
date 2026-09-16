@@ -1,0 +1,10 @@
+# Event-based surveillance
+
+## Event-based surveillance
+
+The organized and rapid capture of information about incidents that are
+a potential risk to public health. This information can be rumours and
+other ad hoc reports transmitted through formal channels
+(i.e. established routine reporting systems) and informal channels
+(i.e. media, health workers and nongovernmental organizations’ reports)
+(64).

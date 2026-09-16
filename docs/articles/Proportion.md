@@ -1,0 +1,7 @@
+# Proportion
+
+## Proportion
+
+The size, number or amount of one thing or group as compared to the
+size, number or amount of another, when the numerator is a subset of the
+denominator (23).

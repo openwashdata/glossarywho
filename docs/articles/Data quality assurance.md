@@ -1,0 +1,9 @@
+# Data quality assurance
+
+## Data quality assurance
+
+The process of assessing and improving the quality of each data stream
+to ensure the overall quality of health data or health statistical
+products. Data quality assurance aims to ensure that the final data
+meets the required standards for accuracy, consistency and reliability
+(49).

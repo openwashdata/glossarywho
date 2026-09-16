@@ -1,0 +1,8 @@
+# Data life cycle
+
+## Data life cycle
+
+The main steps of the data life cycle include data collection, entry and
+recording, storage, processing and analysis, presentation and
+visualization, interpretation, sharing and dissemination, retention and
+archiving, maintenance and quality assurance, and disposal (43,44).

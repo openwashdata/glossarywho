@@ -1,0 +1,6 @@
+# Metadata
+
+## Metadata
+
+Data that define or describe other data. They are the information needed
+to explain and understand the indicator or values being presented (105).

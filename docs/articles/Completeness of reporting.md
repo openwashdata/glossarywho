@@ -1,0 +1,7 @@
+# Completeness of reporting
+
+## Completeness of reporting
+
+Reflects the percentage of reporting units that have provided data. This
+could be the completeness of facility reporting, district reporting or
+globally the completeness of reporting from countries (13).

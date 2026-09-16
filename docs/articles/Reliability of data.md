@@ -1,0 +1,8 @@
+# Reliability of data
+
+## Reliability of data
+
+The degree to which the results obtained by a measurement/procedure can
+be replicated. Consistency of the data when collected repeatedly using
+the same procedures and under the same circumstances \[synonym:
+replicability\] (13,23).

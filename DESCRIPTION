@@ -16,7 +16,7 @@ RoxygenNote: 7.3.2
 Language: en-GB
 Config/Needs/website: rmarkdown
 Date: 2025-01-28
-URL: https://github.com/openwashdata/glossarywho
+URL: https://openwashdata.github.io/glossarywho/, https://github.com/openwashdata/glossarywho
 BugReports: https://github.com/openwashdata/glossarywho/issues
 Suggests: 
     knitr,

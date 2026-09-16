@@ -1,0 +1,7 @@
+# Health management information
+
+## Health management information
+
+system An information system specially designed to support planning,
+management and decision-making in health facilities and organizations
+(85,86).A Z10

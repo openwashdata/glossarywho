@@ -1,0 +1,9 @@
+# Confounding
+
+## Confounding
+
+Occurs when the relationship between an exposure and an outcome is
+distorted because the exposure is linked to other factors that also
+affect the likelihood of the outcome. A confounding variable is an
+additional variable that influences both the independent and dependent
+variables and that distorts the relationship between them (17).

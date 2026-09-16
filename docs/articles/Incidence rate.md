@@ -1,0 +1,7 @@
+# Incidence rate
+
+## Incidence rate
+
+A new event or case of a disease (or a death or other health condition)
+that occurred in a specified time period divided by the population at
+risk for the event in that time period (23).

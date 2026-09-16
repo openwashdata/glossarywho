@@ -1,0 +1,8 @@
+# Effective coverage
+
+## Effective coverage
+
+The proportion of individuals experiencing optimal health gains from a
+service among those who need the service. It is the fraction of
+potential health gain that is actually delivered to the population
+through the health system, given its capacity (8,61,62).
