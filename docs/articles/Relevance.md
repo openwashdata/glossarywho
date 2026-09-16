@@ -1,0 +1,7 @@
+# Relevance
+
+## Relevance
+
+The degree to which the data meet the user needs. Indicators must
+provide information that is appropriate and useful for guiding policies
+and programmes as well as for decision-making (2,23).

@@ -1,5 +1,5 @@
-pandoc: 3.6.2
-pkgdown: 2.1.1
+pandoc: 3.9.0.2
+pkgdown: 2.2.0
 pkgdown_sha: ~
 articles:
   Accountability: Accountability.html
@@ -226,7 +226,7 @@ articles:
   Weighting: Weighting.html
   Years lived with disability: Years lived with disability.html
   Years of life lost: Years of life lost.html
-last_built: 2025-02-03T13:50Z
+last_built: 2026-09-16T12:06Z
 urls:
-  reference: https://github.com/openwashdata/glossarywho/reference
-  article: https://github.com/openwashdata/glossarywho/articles
+  reference: https://openwashdata.github.io/glossarywho/reference
+  article: https://openwashdata.github.io/glossarywho/articles

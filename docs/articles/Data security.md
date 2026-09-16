@@ -1,0 +1,9 @@
+# Data security
+
+## Data security
+
+Appropriate organizational, physical and technical security measures
+implemented for both electronic and paper data to protect the security
+and integrity of personal data, including against personal data breach,
+and to ensure its continued availability for the purposes for which the
+personal data are processed (31).

@@ -1,0 +1,6 @@
+# Interaction
+
+## Interaction
+
+When the relationship between two variables depends on the value of
+another variable (17).

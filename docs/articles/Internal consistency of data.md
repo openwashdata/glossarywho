@@ -1,0 +1,10 @@
+# Internal consistency of data
+
+## Internal consistency of data
+
+A measure based on the correlations between different items on the same
+test or survey. It measures whether several items that propose to
+measure the same general construct produce similar scores or results.
+For example, if a respondent answered “Do you consider yourself
+healthy?” as yes, and then in the same survey answered “Do you consider
+yourself unhealthy?” as no, that is good internal consistency (94).

@@ -1,0 +1,8 @@
+# Master facility list
+
+## Master facility list
+
+The unique, complete, up-to-date and uniquely coded list of all the
+active and prior health facilities in the country that are officially
+curated by the mandated agency. At a minimum, the list includes a unique
+ID, location, type, and name of each facility (103).

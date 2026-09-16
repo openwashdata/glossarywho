@@ -1,0 +1,6 @@
+# Primary data
+
+## Primary data
+
+Data that are gathered first-hand for a specific purpose. Data are
+reported as is, or with modest adjustment (121).

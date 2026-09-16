@@ -1,0 +1,7 @@
+# Stakeholder
+
+## Stakeholder
+
+Interested parties, group or organization who may affect, be affected
+by, or perceive itself to be affected by a decision, activity or outcome
+of a project or programme (139).A

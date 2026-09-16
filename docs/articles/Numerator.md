@@ -1,0 +1,6 @@
+# Numerator
+
+## Numerator
+
+Count of values captured by the indicator in a specified population. The
+upper portion of a fraction used to calculate a rate or ratio (5).

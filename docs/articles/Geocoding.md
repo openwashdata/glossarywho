@@ -1,0 +1,7 @@
+# Geocoding
+
+## Geocoding
+
+The process of transforming a description of a location – such as a pair
+of coordinates, an address, or the name of a place-to a location on the
+earth’s surface (69).

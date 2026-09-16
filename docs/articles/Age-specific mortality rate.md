@@ -1,0 +1,7 @@
+# Age-specific mortality rate
+
+## Age-specific mortality rate
+
+A mortality rate of a particular age group. The numerator is the number
+of deaths in that age group; the denominator is the number of persons in
+that age group in the population (5).B

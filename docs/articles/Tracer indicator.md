@@ -1,0 +1,6 @@
+# Tracer indicator
+
+## Tracer indicator
+
+A highly specified indicator chosen as an example to represent a broader
+health topic (83).

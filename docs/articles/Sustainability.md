@@ -1,0 +1,9 @@
+# Sustainability
+
+## Sustainability
+
+The source’s potential to remain relevant and be of the quality needed
+to generate information over time. This depends not only on the
+periodicity of the data collection, but on the availability of the
+financial resources needed to sustain that source of data, the presence
+of a legal framework, political will, among other factors (23).

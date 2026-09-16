@@ -1,0 +1,7 @@
+# Data integration
+
+## Data integration
+
+A process that merges multiple health data sources into a single,
+unified dataset. It involves combining data residing in different
+sources and providing users with a unified view of them (28,39,40).

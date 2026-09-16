@@ -1,0 +1,8 @@
+# Geospatial data
+
+## Geospatial data
+
+Geospatial analysis is the use of geographic information systems and
+geospatial data to measure, examine and visualize spatial patterns,
+relationships and trends. Often includes statistical methods and/or
+artificial intelligence (73).

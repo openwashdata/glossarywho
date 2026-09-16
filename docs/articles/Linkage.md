@@ -1,0 +1,6 @@
+# Linkage
+
+## Linkage
+
+The process of combining data from different sources that relate to the
+same person to create a new, enhanced data resource (99).
