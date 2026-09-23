@@ -1,7 +1,0 @@
-# Healthy life expectancy at birth
-
-## Healthy life expectancy at birth
-
-Average number of years that a person can expect to live in ‘full
-health’ by taking into account years lived in less than full health due
-to disease and/or injury (88).

@@ -1,8 +1,0 @@
-# Data quality assessment
-
-## Data quality assessment
-
-The analysis or evaluation of data to determine its accuracy,
-completeness, consistency, and other quality attributes based on
-predefined criteria. This process helps identify issues and areas for
-improvement in the current state of data quality (49).

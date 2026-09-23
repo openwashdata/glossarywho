@@ -1,7 +1,0 @@
-# Disease surveillance system
-
-## Disease surveillance system
-
-The infrastructure for ongoing systematic collection, analysis, storage
-and interpretation of outcome-specific disease data for use in planning,
-implementing and evaluating public health policies and practices (60).

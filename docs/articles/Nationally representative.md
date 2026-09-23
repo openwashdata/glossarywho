@@ -1,8 +1,0 @@
-# Nationally representative
-
-## Nationally representative
-
-A survey or surveillance system that will use design methods and
-standardized criteria scalable to national context using a sub-sample
-that represents the target population in terms of age, sex, urban/ rural
-and other categories of interest (112).A Z14

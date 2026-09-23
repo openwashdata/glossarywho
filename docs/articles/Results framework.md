@@ -1,9 +1,0 @@
-# Results framework
-
-## Results framework
-
-A diagram that maps the direct causal relationships between incremental
-steps or results of key activities all the way up to the overall
-objective and goal of the programme or intervention. It includes an
-overall goal, strategic objectives, and intermediate results (100,101).A
-Z18

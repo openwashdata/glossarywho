@@ -1,7 +1,0 @@
-# Domain
-
-## Domain
-
-Categorization of health-related indicators into general groupings. For
-example, health status, risk factors, service coverage and health
-systems (21).

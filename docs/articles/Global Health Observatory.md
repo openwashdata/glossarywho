@@ -1,9 +1,0 @@
-# Global Health Observatory
-
-## Global Health Observatory
-
-The WHO global database for health and health-related indicators,
-presenting the latest available data at global, regional and national
-levels. This database is the WHO gateway to health-related statistics,
-providing access to over 1000 indicators on priority health topics
-including mortality and burden of diseases (75).

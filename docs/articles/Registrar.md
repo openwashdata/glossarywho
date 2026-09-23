@@ -1,7 +1,0 @@
-# Registrar
-
-## Registrar
-
-The official authorized by law to register the occurrence of vital
-events and to represent the legal authority of government in the field
-of civil registration

@@ -1,8 +1,0 @@
-# Understandable or simplicty
-
-## Understandable or simplicty
-
-When an indicator is presented in a clear, concise and easily
-comprehensible way. The indicator must be understood by those
-responsible for taking action and, specifically, by those responsible
-for decision-making (23,60).

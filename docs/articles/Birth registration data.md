@@ -1,7 +1,0 @@
-# Birth registration data
-
-## Birth registration data
-
-Data collected in the process of recording a child’s birth. It is a
-permanent and official record of a child’s existence and provides legal
-recognition of that child’s identity (6).

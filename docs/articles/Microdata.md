@@ -1,9 +1,0 @@
-# Microdata
-
-## Microdata
-
-Microdata are unit-level data obtained from sample surveys, censuses and
-administrative systems. They provide information about characteristics
-of individual people or entities such as households, business
-enterprises, facilities, farms or even geographical areas such as
-villages or towns (107).
