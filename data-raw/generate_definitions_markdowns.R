@@ -1,6 +1,6 @@
 definitions_path <- "inst/extdata/definitions.csv"
 definitions <- readr::read_csv(definitions_path)
-output_dir <- "vignettes/"
+output_dir <- "vignettes/articles/"
 
 for (i in 1:nrow(definitions)) {
   term <- definitions$Term[i]

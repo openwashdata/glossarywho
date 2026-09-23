@@ -50,226 +50,226 @@ articles:
   contents: Themes
 - title: Definitions
   contents:
-  - Accountability
-  - Accuracy
-  - Administrative area
-  - Age groupings
-  - Age-specific mortality rate
-  - Birth registration data
-  - Care cascade
-  - Catchment area
-  - Causes of death
-  - Chi-square (χ2) test
-  - Civil registration and vital statistics
-  - Completeness of reporting
-  - Compliance
-  - Composite indicator
-  - Confidentiality
-  - Confounding
-  - Construct validity
-  - Content validity
-  - Convergent validity
-  - Core indicator
-  - Correlation analysis
-  - Count
-  - Covariates
-  - Credibility
-  - Criterion validity
-  - Data access control
-  - Data accessibility
-  - Data anonymization
-  - Data collection level
-  - Data collection method
-  - Data consent
-  - Data custodian
-  - Data element
-  - Data governance
-  - Data harmonization
-  - Data information pyramid
-  - Data inputs
-  - Data integration
-  - Data integrity
-  - Data life cycle
-  - Data privacy
-  - Data provider
-  - Data quality assurance
-  - Data quality assessment
-  - Data quality
-  - Data security
-  - Data source
-  - Data standards
-  - Data steward
-  - Data stewardship
-  - Data triangulation
-  - Data type
-  - Data
-  - Death registration data
-  - Death registration desk
-  - Delineated geographical areas within
-  - Denominator
-  - Descriptive  cross-sectional
-  - Descriptive analysis
-  - Digital health
-  - Disability adjusted life years (DALYs)
-  - Disaggregation
-  - Disease surveillance system
-  - Domain
-  - Ecological analysis
-  - Ecological fallacy
-  - Effect size
-  - Effective coverage
-  - Estimation method
-  - Evaluation
-  - Event-based surveillance
-  - External consistency of data
-  - External responsiveness
-  - Feasibility
-  - Focal point
-  - Gender
-  - Geo-enablement
-  - Geocoding
-  - Geographic accessibility
-  - Geographic information systems
-  - Geospatial analysis
-  - Geospatial data
-  - Global health estimates
-  - Global Health Observatory
-  - Gold standard
-  - Government agency or institution
-  - Granularity
-  - Health and demographic surveillance system
-  - Health data
-  - Health estimates
-  - Health facility census
-  - Health facility survey
-  - Health impact assessment
-  - Health indicator
-  - Health inequality
-  - Health inequity
-  - Health information system
-  - Health management information system
-  - Health survey
-  - Healthy life expectancy at birth
-  - Heaping of data
-  - Home-based record
-  - Impact indicator
-  - Imputation
-  - Incidence rate
-  - Indicator classification
-  - Indicator definition
-  - Indicator-based surveillance commonly
-  - Indicator-based surveillance
-  - Individual health record
-  - Input indicator
-  - Interaction
-  - Internal consistency of data
-  - Internal responsiveness
-  - International Classification of Diseases (ICD)
-  - International Health Regulations
-  - Interoperability
-  - Intervention coverage
-  - Joint external evaluation
-  - Kappa statistic (K)
-  - Linkage
-  - Logic model
-  - Master facility list
-  - Mean
-  - Measure
-  - Measurement method
-  - Measurement level
-  - Measurement
-  - Median
-  - Medical certification of cause of death
-  - Metadata
-  - Method of aggregate estimation
-  - Microdata
-  - Monitoring and evaluation (M&E) framework
-  - Monitoring
-  - Morbidity data
-  - Mortality coder
-  - Mortality data
-  - National health strategic plan
-  - National statistics office
-  - Nationally representative
-  - Negative predictive value
-  - Notifiable conditions
-  - Null hypothesis
-  - Numerator
-  - Odds ratio
-  - Outcome indicator
-  - Outcome-adjusted coverage
-  - Output indicator
-  - P value
-  - Percentage
-  - Periodicity
-  - Population attributable fraction
-  - Population-based survey
-  - Population census
-  - Positive predictive value
-  - Predictive validity
-  - Preferred data sources
-  - Prevalence rate
-  - Primary data
-  - Process indicator
-  - Process of validation
-  - Processed health data
-  - Proportion
-  - Proxy health indicator
-  - Public health surveillance system
-  - Publicly available
-  - Punctuality
-  - Quality-adjusted coverage
-  - Rate
-  - Ratio
-  - Rationale
-  - Raw health data
-  - Record linkage
-  - Register
-  - Registrar
-  - Registration form
-  - Registry
-  - Regression
-  - Relevance
-  - Reliability of data
-  - Representativeness
-  - Response rate
-  - Responsiveness
-  - Results framework
-  - Routine data
-  - Routine health information system
-  - Sample size
-  - Sample
-  - Sampling error
-  - Secondary data
-  - Sensitivity analysis
-  - Sex
-  - Stakeholder
-  - Standard operating procedures
-  - Statistical model
-  - Statistical significance
-  - Statistics
-  - Stratification
-  - Subnational
-  - Surveillance
-  - Survey data
-  - Survey
-  - Sustainability
-  - Sustainable Development Goals (SDGs)
-  - Target population
-  - Timeliness
-  - Tracer indicator
-  - Transparency
-  - Trend
-  - Uncertainty measure
-  - Unit of measure
-  - Usefulness or Utility
-  - Understandable or simplicty
-  - Validity
-  - Verbal autopsy
-  - Vital event
-  - Vital statistics
-  - Weighting
-  - Years lived with disability
-  - Years of life lost
+  - articles/Accountability
+  - articles/Accuracy
+  - articles/Administrative area
+  - articles/Age groupings
+  - articles/Age-specific mortality rate
+  - articles/Birth registration data
+  - articles/Care cascade
+  - articles/Catchment area
+  - articles/Causes of death
+  - articles/Chi-square (χ2) test
+  - articles/Civil registration and vital statistics
+  - articles/Completeness of reporting
+  - articles/Compliance
+  - articles/Composite indicator
+  - articles/Confidentiality
+  - articles/Confounding
+  - articles/Construct validity
+  - articles/Content validity
+  - articles/Convergent validity
+  - articles/Core indicator
+  - articles/Correlation analysis
+  - articles/Count
+  - articles/Covariates
+  - articles/Credibility
+  - articles/Criterion validity
+  - articles/Data access control
+  - articles/Data accessibility
+  - articles/Data anonymization
+  - articles/Data collection level
+  - articles/Data collection method
+  - articles/Data consent
+  - articles/Data custodian
+  - articles/Data element
+  - articles/Data governance
+  - articles/Data harmonization
+  - articles/Data information pyramid
+  - articles/Data inputs
+  - articles/Data integration
+  - articles/Data integrity
+  - articles/Data life cycle
+  - articles/Data privacy
+  - articles/Data provider
+  - articles/Data quality assurance
+  - articles/Data quality assessment
+  - articles/Data quality
+  - articles/Data security
+  - articles/Data source
+  - articles/Data standards
+  - articles/Data steward
+  - articles/Data stewardship
+  - articles/Data triangulation
+  - articles/Data type
+  - articles/Data
+  - articles/Death registration data
+  - articles/Death registration desk
+  - articles/Delineated geographical areas within
+  - articles/Denominator
+  - articles/Descriptive  cross-sectional
+  - articles/Descriptive analysis
+  - articles/Digital health
+  - articles/Disability adjusted life years (DALYs)
+  - articles/Disaggregation
+  - articles/Disease surveillance system
+  - articles/Domain
+  - articles/Ecological analysis
+  - articles/Ecological fallacy
+  - articles/Effect size
+  - articles/Effective coverage
+  - articles/Estimation method
+  - articles/Evaluation
+  - articles/Event-based surveillance
+  - articles/External consistency of data
+  - articles/External responsiveness
+  - articles/Feasibility
+  - articles/Focal point
+  - articles/Gender
+  - articles/Geo-enablement
+  - articles/Geocoding
+  - articles/Geographic accessibility
+  - articles/Geographic information systems
+  - articles/Geospatial analysis
+  - articles/Geospatial data
+  - articles/Global health estimates
+  - articles/Global Health Observatory
+  - articles/Gold standard
+  - articles/Government agency or institution
+  - articles/Granularity
+  - articles/Health and demographic surveillance system
+  - articles/Health data
+  - articles/Health estimates
+  - articles/Health facility census
+  - articles/Health facility survey
+  - articles/Health impact assessment
+  - articles/Health indicator
+  - articles/Health inequality
+  - articles/Health inequity
+  - articles/Health information system
+  - articles/Health management information system
+  - articles/Health survey
+  - articles/Healthy life expectancy at birth
+  - articles/Heaping of data
+  - articles/Home-based record
+  - articles/Impact indicator
+  - articles/Imputation
+  - articles/Incidence rate
+  - articles/Indicator classification
+  - articles/Indicator definition
+  - articles/Indicator-based surveillance commonly
+  - articles/Indicator-based surveillance
+  - articles/Individual health record
+  - articles/Input indicator
+  - articles/Interaction
+  - articles/Internal consistency of data
+  - articles/Internal responsiveness
+  - articles/International Classification of Diseases (ICD)
+  - articles/International Health Regulations
+  - articles/Interoperability
+  - articles/Intervention coverage
+  - articles/Joint external evaluation
+  - articles/Kappa statistic (K)
+  - articles/Linkage
+  - articles/Logic model
+  - articles/Master facility list
+  - articles/Mean
+  - articles/Measure
+  - articles/Measurement method
+  - articles/Measurement level
+  - articles/Measurement
+  - articles/Median
+  - articles/Medical certification of cause of death
+  - articles/Metadata
+  - articles/Method of aggregate estimation
+  - articles/Microdata
+  - articles/Monitoring and evaluation (M&E) framework
+  - articles/Monitoring
+  - articles/Morbidity data
+  - articles/Mortality coder
+  - articles/Mortality data
+  - articles/National health strategic plan
+  - articles/National statistics office
+  - articles/Nationally representative
+  - articles/Negative predictive value
+  - articles/Notifiable conditions
+  - articles/Null hypothesis
+  - articles/Numerator
+  - articles/Odds ratio
+  - articles/Outcome indicator
+  - articles/Outcome-adjusted coverage
+  - articles/Output indicator
+  - articles/P value
+  - articles/Percentage
+  - articles/Periodicity
+  - articles/Population attributable fraction
+  - articles/Population-based survey
+  - articles/Population census
+  - articles/Positive predictive value
+  - articles/Predictive validity
+  - articles/Preferred data sources
+  - articles/Prevalence rate
+  - articles/Primary data
+  - articles/Process indicator
+  - articles/Process of validation
+  - articles/Processed health data
+  - articles/Proportion
+  - articles/Proxy health indicator
+  - articles/Public health surveillance system
+  - articles/Publicly available
+  - articles/Punctuality
+  - articles/Quality-adjusted coverage
+  - articles/Rate
+  - articles/Ratio
+  - articles/Rationale
+  - articles/Raw health data
+  - articles/Record linkage
+  - articles/Register
+  - articles/Registrar
+  - articles/Registration form
+  - articles/Registry
+  - articles/Regression
+  - articles/Relevance
+  - articles/Reliability of data
+  - articles/Representativeness
+  - articles/Response rate
+  - articles/Responsiveness
+  - articles/Results framework
+  - articles/Routine data
+  - articles/Routine health information system
+  - articles/Sample size
+  - articles/Sample
+  - articles/Sampling error
+  - articles/Secondary data
+  - articles/Sensitivity analysis
+  - articles/Sex
+  - articles/Stakeholder
+  - articles/Standard operating procedures
+  - articles/Statistical model
+  - articles/Statistical significance
+  - articles/Statistics
+  - articles/Stratification
+  - articles/Subnational
+  - articles/Surveillance
+  - articles/Survey data
+  - articles/Survey
+  - articles/Sustainability
+  - articles/Sustainable Development Goals (SDGs)
+  - articles/Target population
+  - articles/Timeliness
+  - articles/Tracer indicator
+  - articles/Transparency
+  - articles/Trend
+  - articles/Uncertainty measure
+  - articles/Unit of measure
+  - articles/Usefulness or Utility
+  - articles/Understandable or simplicty
+  - articles/Validity
+  - articles/Verbal autopsy
+  - articles/Vital event
+  - articles/Vital statistics
+  - articles/Weighting
+  - articles/Years lived with disability
+  - articles/Years of life lost
 
 
