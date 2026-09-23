@@ -8,7 +8,7 @@ message: 'To cite package "glossarywho" in publications use:'
 type: dataset
 license: CC-BY-4.0
 title: 'glossarywho: WHO Glossary'
-version: 0.1.0
+version: 1.0.2
 doi: 10.5281/zenodo.14754016
 abstract: This package provides access to a tidy version of the WHO Glossary (https://www.who.int/publications/i/item/9789240105485)
   and thematic areas for each term.

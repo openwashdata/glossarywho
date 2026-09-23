@@ -1,7 +1,7 @@
 Package: glossarywho
 Type: Package
 Title: WHO Glossary
-Version: 0.1.0
+Version: 1.0.2
 Authors@R: c(
     person("Yash", "Dubey", , "ydubey@ethz.ch", role = c("cre", "aut"),
            comment = c(ORCID = "0009-0001-2849-970X"))
