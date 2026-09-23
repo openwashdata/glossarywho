@@ -1,7 +1,0 @@
-# Stratification
-
-## Stratification
-
-The process of sorting data of subjects into defined segments or groups.
-This method can be used when sampling a population for conducting a
-survey or this can be used for analysis to control for confounding (23).

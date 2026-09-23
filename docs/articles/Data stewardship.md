@@ -1,7 +1,0 @@
-# Data stewardship
-
-## Data stewardship
-
-A collection of functions and practices that ensure all data and
-statistics of an organization are accessible, usable, safe and trusted
-(52,53).

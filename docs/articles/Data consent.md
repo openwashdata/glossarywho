@@ -1,8 +1,0 @@
-# Data consent
-
-## Data consent
-
-Any freely given and informed indication of an agreement by the data
-subject to the processing of his/her personal data. It may be given
-either by a written or oral statement or other clear affirmative action
-(30,31).

@@ -1,6 +1,0 @@
-# Morbidity data
-
-## Morbidity data
-
-The information registered on the state of being symptomatic or
-unhealthy due to a disease or health-related condition (110).

@@ -1,7 +1,0 @@
-# Responsiveness
-
-## Responsiveness
-
-An indicator’s ability to detect changes over time in response to
-interventions, treatments, or natural progression of the condition (see
-also: External responsiveness and Internal responsiveness (133).)

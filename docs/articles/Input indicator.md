@@ -1,8 +1,0 @@
-# Input indicator
-
-## Input indicator
-
-Measures human and financial resources, physical facilities, equipment
-and operational policies that enable programme activities to be
-implemented. This includes health financing, health workforce, health
-infrastructure, and health information and governance (21,50).

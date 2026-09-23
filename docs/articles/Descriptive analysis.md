@@ -1,8 +1,0 @@
-# Descriptive analysis
-
-## Descriptive analysis
-
-A statistical method utilized to summarize and elucidate the primary
-features of a dataset. This approach allows for a clear understanding of
-the fundamental characteristics of the data without drawing inferences
-or making predictions (56,57).

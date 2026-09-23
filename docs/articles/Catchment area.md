@@ -1,8 +1,0 @@
-# Catchment area
-
-## Catchment area
-
-A geographical area delineated around an institution or business, such
-as a health facility, from where the population utilizes its services.
-Often a key output of geographic accessibility analysis (see also
-“geographic accessibility”) (9).

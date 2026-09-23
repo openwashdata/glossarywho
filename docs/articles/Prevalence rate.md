@@ -1,7 +1,0 @@
-# Prevalence rate
-
-## Prevalence rate
-
-Is the proportion of people in a population who have a particular
-disease or attribute at a point in time or over a specified period of
-time (120).

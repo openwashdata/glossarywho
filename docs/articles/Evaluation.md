@@ -1,7 +1,0 @@
-# Evaluation
-
-## Evaluation
-
-A process that attempts to determine as systematically and objectively
-as possible the relevance, effectiveness and impact of activities in
-light of their objectives (21).

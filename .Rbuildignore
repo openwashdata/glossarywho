@@ -10,3 +10,6 @@
 ^\.github$
 ^doc$
 ^Meta$
+^CITATION\.cff$
+^vignettes/articles$
+^Python$

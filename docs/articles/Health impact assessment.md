@@ -1,8 +1,0 @@
-# Health impact assessment
-
-## Health impact assessment
-
-A combination of procedures, methods and tools by which a policy,
-programme, product or service may be judged concerning its effects on
-the health of the population and the distribution of those effects
-within the population (82).

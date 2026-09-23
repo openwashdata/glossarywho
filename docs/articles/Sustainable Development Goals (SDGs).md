@@ -1,9 +1,0 @@
-# Sustainable Development Goals (SDGs)
-
-## Sustainable Development Goals (SDGs)
-
-These are 17 global objectives that were agreed by Member States of the
-United Nations and aim to transform our world. They are a call to action
-to end poverty and inequality, protect the planet, and ensure that all
-people enjoy health, justice and prosperity. It is critical that no one
-is left behind (104).

@@ -1,8 +1,0 @@
-# Convergent validity
-
-## Convergent validity
-
-How closely the indicator is related to other variables and other
-measures of the same construct. This approach is utilized when a gold
-standard does not exist. Convergent validity is often used for impact
-indicators (20).

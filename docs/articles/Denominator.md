@@ -1,8 +1,0 @@
-# Denominator
-
-## Denominator
-
-The lower portion of a fraction; that is the number below the horizontal
-bar of a fraction. It is used to calculate, for example, rates, ratios
-and percentages. In a rate, the denominator is usually the population
-(or population experience, as in person-years, etc.) at risk (5).

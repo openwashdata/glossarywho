@@ -1,7 +1,0 @@
-# Data integrity
-
-## Data integrity
-
-The extent to which all data are complete, consistent and accurate and
-are protected from deliberate bias or manipulation for political or
-personal reasons (41,42).

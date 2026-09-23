@@ -1,7 +1,0 @@
-# Vital statistics
-
-## Vital statistics
-
-The systematic record of vital events such as birth, marriage, divorce,
-adoption, death, and cause of death to generate data and statistics
-(152).

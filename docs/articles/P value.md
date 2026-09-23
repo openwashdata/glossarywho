@@ -1,6 +1,0 @@
-# P value
-
-## P value
-
-The probability that a statistic would be as extreme as or more extreme
-than observed if the null hypothesis were true (17).

@@ -130,7 +130,7 @@ td a:hover {
 |  |  |  |  |
 |:----------------|:----------------|:----------------|:--------------------|
 | [Accountability](https://openwashdata.github.io/glossarywho/articles/Accountability.html) | [Joint external evaluation](https://openwashdata.github.io/glossarywho/articles/Joint%20external%20evaluation.html) | [Results framework](https://openwashdata.github.io/glossarywho/articles/Results%20framework.html) | [Evaluation](https://openwashdata.github.io/glossarywho/articles/Evaluation.html) |
-| [Monitoring](https://openwashdata.github.io/glossarywho/articles/Monitoring.html) | [Target population](https://openwashdata.github.io/glossarywho/articles/Target%20population.html) | [Health impact assessment](https://openwashdata.github.io/glossarywho/articles/Health%20impact%20assessment.html) | [Monitoring and evaluation framework](https://openwashdata.github.io/glossarywho/articles/Monitoring%20and%20evaluation%20framework.html) |
+| [Monitoring](https://openwashdata.github.io/glossarywho/articles/Monitoring.html) | [Target population](https://openwashdata.github.io/glossarywho/articles/Target%20population.html) | [Health impact assessment](https://openwashdata.github.io/glossarywho/articles/Health%20impact%20assessment.html) | [Monitoring and evaluation framework](https://openwashdata.github.io/glossarywho/articles/Monitoring%20and%20evaluation%20(M%26E)%20framework.html) |
 
 ## Quality of Care measurement
 

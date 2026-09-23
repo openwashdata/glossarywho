@@ -1,8 +1,0 @@
-# Data steward
-
-## Data steward
-
-Subject-matter experts who facilitate the use of data assets by all who
-need them, within the guardrails of relevant policy, and manage
-exceptions. Data assets do not belong to data stewards themselves, but
-they are responsible for taking care of them (28,52).A Z6

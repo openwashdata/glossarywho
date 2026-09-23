@@ -29,6 +29,8 @@ knitr::opts_chunk$set(
 [![License: CC BY
 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14754016.svg)](https://zenodo.org/doi/10.5281/zenodo.14754016)
+[![R-CMD-check](https://github.com/openwashdata/glossarywho/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/glossarywho/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of glossarywho is to provide data from the [WHO Glossary](https://www.who.int/publications/i/item/9789240105485) in a tidy format. Access definitions by themes [here](https://openwashdata.github.io/glossarywho/articles/Themes.html) or use the search bar at the top of the page.
@@ -177,7 +179,7 @@ wordcloud(words = names(sort(colSums(as.matrix(dtm)), decreasing = TRUE)),
 ## License
 
 Data are available as
-[CC-BY](https://github.com/openwashdata/%7B%7B%7Bpackagename%7D%7D%7D/blob/main/LICENSE.md).
+[CC-BY](https://github.com/openwashdata/glossarywho/blob/main/LICENSE.md).
 
 ## Citation
 

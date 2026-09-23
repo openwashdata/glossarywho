@@ -1,7 +1,0 @@
-# Compliance
-
-## Compliance
-
-The act of handling and managing personal and sensitive data in a way
-that adheres to regulatory requirements, industry standards and internal
-policies involving data security and privacy (14).

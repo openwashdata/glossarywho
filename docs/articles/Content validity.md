@@ -1,7 +1,0 @@
-# Content validity
-
-## Content validity
-
-The degree to which an assessment instrument is relevant to, and
-representative of, the targeted construct it is designed to measure
-(19).
