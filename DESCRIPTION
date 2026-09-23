@@ -14,7 +14,7 @@ Depends:
     R (>= 3.5)
 RoxygenNote: 7.3.2
 Language: en-GB
-Config/Needs/website: rmarkdown
+Config/Needs/website: rmarkdown, dplyr, readr, stringr, gt, kableExtra, ggplot2, tidyverse, wordcloud, tm
 Date: 2025-01-28
 URL: https://openwashdata.github.io/glossarywho/, https://github.com/openwashdata/glossarywho
 BugReports: https://github.com/openwashdata/glossarywho/issues
@@ -22,3 +22,6 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+X-schema.org-keywords: open data, washdata, glossary, health data, health statistics, public health indicators, data governance, WHO
+X-schema.org-spatialCoverage: Global
+X-schema.org-temporalCoverage: 2025-01-01/2025-12-31
