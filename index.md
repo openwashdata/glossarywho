@@ -168,16 +168,16 @@ Please cite this package using:
 citation("glossarywho")
 #> To cite package 'glossarywho' in publications use:
 #> 
-#>   Dubey Y (2025). "glossarywho: WHO Glossary."
+#>   Dubey Y, Schöbitz L (2025). "glossarywho: WHO Glossary."
 #>   doi:10.5281/zenodo.14754016
 #>   <https://doi.org/10.5281/zenodo.14754016>.
 #>   <https://openwashdata.github.io/glossarywho/>.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
-#>   @Misc{dubey:2025,
+#>   @Misc{dubey_etall:2025,
 #>     title = {glossarywho: WHO Glossary},
-#>     author = {Yash Dubey},
+#>     author = {Yash Dubey and Lars Schöbitz},
 #>     year = {2025},
 #>     doi = {10.5281/zenodo.14754016},
 #>     url = {https://openwashdata.github.io/glossarywho/},
