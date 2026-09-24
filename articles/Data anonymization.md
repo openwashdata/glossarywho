@@ -1,0 +1,7 @@
+# Data anonymization
+
+## Data anonymization
+
+The process of altering personally identifiable information within a
+dataset in such a way that the data subject is not or no longer
+identifiable (30,31).

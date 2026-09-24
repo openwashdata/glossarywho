@@ -1,0 +1,8 @@
+# Data collection method
+
+## Data collection method
+
+Description of all methods used for data collection. This description
+should include, when applicable, the sample frame used, the questions
+used to collect the data, the type of interview, the dates/duration of
+fieldwork, the sample size, and the response rate (33).

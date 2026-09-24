@@ -1,0 +1,9 @@
+# Population attributable fraction
+
+## Population attributable fraction
+
+The proportional reduction in population disease or mortality would
+occur if exposure to a risk factor were reduced to an alternative ideal
+exposure scenario. The number of deaths and DALYs attributed to a risk
+factor is quantified by applying the population attributable fraction to
+the total number of deaths or the total burden of disease (118).

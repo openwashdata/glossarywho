@@ -1,0 +1,10 @@
+# Data standards
+
+## Data standards
+
+The rules for structuring information that has been collected, and which
+facilitate semantic interoperability. A set of agreed data standards
+ensures that the data entered into a system can be reliably read,
+sorted, indexed, retrieved and communicated between systems. For
+example, length of a field, format, the encoding of the information, and
+permissible values (47).

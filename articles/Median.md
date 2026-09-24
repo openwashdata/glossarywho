@@ -1,0 +1,6 @@
+# Median
+
+## Median
+
+Middle point of a set of ordered numbers; half of the values are higher
+than the median, and half of the values are lower (17).

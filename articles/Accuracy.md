@@ -1,0 +1,6 @@
+# Accuracy
+
+## Accuracy
+
+The degree to which a measurement, test or procedure correctly reflect
+the true value or condition (2).

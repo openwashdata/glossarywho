@@ -1,0 +1,9 @@
+# Composite indicator
+
+## Composite indicator
+
+An indicator obtained by combining individual indicators from across
+several health topics based on an underlying model of the
+multi-dimensional concept being measured. Typically, a composite
+indicator measures a broader concept such as universal health coverage
+(15).

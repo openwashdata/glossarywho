@@ -1,0 +1,9 @@
+# Representativeness
+
+## Representativeness
+
+The ability for the indicator to accurately describe the occurrence of a
+health- related event over time and its distribution in the population
+by place and person. This involves the absence of selection bias with
+respect to the population that the indicator is intended to represent
+(23,66).

@@ -1,0 +1,10 @@
+# Civil registration and vital statistics
+
+## Civil registration and vital statistics
+
+A system of continuous, permanent, compulsory, and universal recording
+of the occurrence and characteristics of vital events pertaining to the
+population, as provided through decree or regulation in accordance with
+the legal requirements in each country. The main source of vital
+statistics is civil registration and includes events like birth,
+marriage, divorce, adoption, death, and cause of death (10).

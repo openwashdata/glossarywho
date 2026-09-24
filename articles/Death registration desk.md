@@ -1,0 +1,6 @@
+# Death registration desk
+
+## Death registration desk
+
+A desk or office that receives death notification, validates information
+and enters it into a civil registration system (11).

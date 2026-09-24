@@ -1,0 +1,7 @@
+# Focal point
+
+## Focal point
+
+The designated person to respond on behalf of a Member State or
+technical group during data collection or country consultation process
+(67).

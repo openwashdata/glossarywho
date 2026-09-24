@@ -1,0 +1,8 @@
+# Years lived with disability
+
+## Years lived with disability
+
+Represents the equivalent of one full year of healthy life lost due to
+disability or ill- health. The prevalence of years lived with disability
+are calculated as the prevalence of each non-fatal condition multiplied
+by its disability weight (155).

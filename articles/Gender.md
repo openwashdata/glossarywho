@@ -1,0 +1,9 @@
+# Gender
+
+## Gender
+
+Refers to the characteristics of women, men, girls and boys that are
+socially constructed. This includes norms, behaviours and roles
+associated with being a woman, man, girl or boy, as well as
+relationships with each other. As a social construct, gender varies from
+society to society and can change over time (68).

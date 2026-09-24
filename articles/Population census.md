@@ -1,0 +1,8 @@
+# Population census
+
+## Population census
+
+Is the total process of planning, collecting, compiling, evaluating,
+disseminating and analysing demographic, economic and social data at the
+smallest geographic level pertaining, at a specified time, to all
+persons in a country or in a well-delimited part of a country (119).

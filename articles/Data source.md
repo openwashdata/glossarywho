@@ -1,0 +1,8 @@
+# Data source
+
+## Data source
+
+From where data are obtained (e.g. their origin such as the location
+setting and provider of the data). For example, routine health
+information systems, civil registration and vital statistics,
+population-based surveys, health facility surveys) (50,51).

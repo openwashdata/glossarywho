@@ -1,0 +1,235 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  articles/Accountability: Accountability.html
+  articles/Accuracy: Accuracy.html
+  articles/Administrative area: Administrative area.html
+  articles/Age groupings: Age groupings.html
+  articles/Age-specific mortality rate: Age-specific mortality rate.html
+  articles/Birth registration data: Birth registration data.html
+  articles/Care cascade: Care cascade.html
+  articles/Catchment area: Catchment area.html
+  articles/Causes of death: Causes of death.html
+  articles/Chi-square (χ2) test: Chi-square (χ2) test.html
+  articles/Civil registration and vital statistics: Civil registration and vital statistics.html
+  articles/Completeness of reporting: Completeness of reporting.html
+  articles/Compliance: Compliance.html
+  articles/Composite indicator: Composite indicator.html
+  articles/Confidentiality: Confidentiality.html
+  articles/Confounding: Confounding.html
+  articles/Construct validity: Construct validity.html
+  articles/Content validity: Content validity.html
+  articles/Convergent validity: Convergent validity.html
+  articles/Core indicator: Core indicator.html
+  articles/Correlation analysis: Correlation analysis.html
+  articles/Count: Count.html
+  articles/Covariates: Covariates.html
+  articles/Credibility: Credibility.html
+  articles/Criterion validity: Criterion validity.html
+  articles/Data access control: Data access control.html
+  articles/Data accessibility: Data accessibility.html
+  articles/Data anonymization: Data anonymization.html
+  articles/Data collection level: Data collection level.html
+  articles/Data collection method: Data collection method.html
+  articles/Data consent: Data consent.html
+  articles/Data custodian: Data custodian.html
+  articles/Data element: Data element.html
+  articles/Data governance: Data governance.html
+  articles/Data harmonization: Data harmonization.html
+  articles/Data information pyramid: Data information pyramid.html
+  articles/Data inputs: Data inputs.html
+  articles/Data integration: Data integration.html
+  articles/Data integrity: Data integrity.html
+  articles/Data life cycle: Data life cycle.html
+  articles/Data privacy: Data privacy.html
+  articles/Data provider: Data provider.html
+  articles/Data quality assessment: Data quality assessment.html
+  articles/Data quality assurance: Data quality assurance.html
+  articles/Data quality: Data quality.html
+  articles/Data security: Data security.html
+  articles/Data source: Data source.html
+  articles/Data standards: Data standards.html
+  articles/Data steward: Data steward.html
+  articles/Data stewardship: Data stewardship.html
+  articles/Data triangulation: Data triangulation.html
+  articles/Data type: Data type.html
+  articles/Data: Data.html
+  articles/Death registration data: Death registration data.html
+  articles/Death registration desk: Death registration desk.html
+  articles/Delineated geographical areas within: Delineated geographical areas within.html
+  articles/Denominator: Denominator.html
+  articles/Descriptive  cross-sectional: Descriptive  cross-sectional.html
+  articles/Descriptive analysis: Descriptive analysis.html
+  articles/Digital health: Digital health.html
+  articles/Disability adjusted life years (DALYs): Disability adjusted life years
+    (DALYs).html
+  articles/Disaggregation: Disaggregation.html
+  articles/Disease surveillance system: Disease surveillance system.html
+  articles/Domain: Domain.html
+  articles/Ecological analysis: Ecological analysis.html
+  articles/Ecological fallacy: Ecological fallacy.html
+  articles/Effect size: Effect size.html
+  articles/Effective coverage: Effective coverage.html
+  articles/Estimation method: Estimation method.html
+  articles/Evaluation: Evaluation.html
+  articles/Event-based surveillance: Event-based surveillance.html
+  articles/External consistency of data: External consistency of data.html
+  articles/External responsiveness: External responsiveness.html
+  articles/Feasibility: Feasibility.html
+  articles/Focal point: Focal point.html
+  articles/Gender: Gender.html
+  articles/Geo-enablement: Geo-enablement.html
+  articles/Geocoding: Geocoding.html
+  articles/Geographic accessibility: Geographic accessibility.html
+  articles/Geographic information systems: Geographic information systems.html
+  articles/Geospatial analysis: Geospatial analysis.html
+  articles/Geospatial data: Geospatial data.html
+  articles/Global health estimates: Global health estimates.html
+  articles/Global Health Observatory: Global Health Observatory.html
+  articles/Gold standard: Gold standard.html
+  articles/Government agency or institution: Government agency or institution.html
+  articles/Granularity: Granularity.html
+  articles/Health and demographic surveillance system: Health and demographic surveillance
+    system.html
+  articles/Health data: Health data.html
+  articles/Health estimates: Health estimates.html
+  articles/Health facility census: Health facility census.html
+  articles/Health facility survey: Health facility survey.html
+  articles/Health impact assessment: Health impact assessment.html
+  articles/Health indicator: Health indicator.html
+  articles/Health inequality: Health inequality.html
+  articles/Health inequity: Health inequity.html
+  articles/Health information system: Health information system.html
+  articles/Health management information system: Health management information system.html
+  articles/Health survey: Health survey.html
+  articles/Healthy life expectancy at birth: Healthy life expectancy at birth.html
+  articles/Heaping of data: Heaping of data.html
+  articles/Home-based record: Home-based record.html
+  articles/Impact indicator: Impact indicator.html
+  articles/Imputation: Imputation.html
+  articles/Incidence rate: Incidence rate.html
+  articles/Indicator classification: Indicator classification.html
+  articles/Indicator definition: Indicator definition.html
+  articles/Indicator-based surveillance commonly: Indicator-based surveillance commonly.html
+  articles/Indicator-based surveillance: Indicator-based surveillance.html
+  articles/Individual health record: Individual health record.html
+  articles/Input indicator: Input indicator.html
+  articles/Interaction: Interaction.html
+  articles/Internal consistency of data: Internal consistency of data.html
+  articles/Internal responsiveness: Internal responsiveness.html
+  articles/International Classification of Diseases (ICD): International Classification
+    of Diseases (ICD).html
+  articles/International Health Regulations: International Health Regulations.html
+  articles/Interoperability: Interoperability.html
+  articles/Intervention coverage: Intervention coverage.html
+  articles/Joint external evaluation: Joint external evaluation.html
+  articles/Kappa statistic (K): Kappa statistic (K).html
+  articles/Linkage: Linkage.html
+  articles/Logic model: Logic model.html
+  articles/Master facility list: Master facility list.html
+  articles/Mean: Mean.html
+  articles/Measure: Measure.html
+  articles/Measurement level: Measurement level.html
+  articles/Measurement method: Measurement method.html
+  articles/Measurement: Measurement.html
+  articles/Median: Median.html
+  articles/Medical certification of cause of death: Medical certification of cause
+    of death.html
+  articles/Metadata: Metadata.html
+  articles/Method of aggregate estimation: Method of aggregate estimation.html
+  articles/Microdata: Microdata.html
+  articles/Monitoring and evaluation (M&E) framework: Monitoring and evaluation (M&E)
+    framework.html
+  articles/Monitoring: Monitoring.html
+  articles/Morbidity data: Morbidity data.html
+  articles/Mortality coder: Mortality coder.html
+  articles/Mortality data: Mortality data.html
+  articles/National health strategic plan: National health strategic plan.html
+  articles/National statistics office: National statistics office.html
+  articles/Nationally representative: Nationally representative.html
+  articles/Negative predictive value: Negative predictive value.html
+  articles/Notifiable conditions: Notifiable conditions.html
+  articles/Null hypothesis: Null hypothesis.html
+  articles/Numerator: Numerator.html
+  articles/Odds ratio: Odds ratio.html
+  articles/Outcome indicator: Outcome indicator.html
+  articles/Outcome-adjusted coverage: Outcome-adjusted coverage.html
+  articles/Output indicator: Output indicator.html
+  articles/P value: P value.html
+  articles/Percentage: Percentage.html
+  articles/Periodicity: Periodicity.html
+  articles/Population attributable fraction: Population attributable fraction.html
+  articles/Population census: Population census.html
+  articles/Population-based survey: Population-based survey.html
+  articles/Positive predictive value: Positive predictive value.html
+  articles/Predictive validity: Predictive validity.html
+  articles/Preferred data sources: Preferred data sources.html
+  articles/Prevalence rate: Prevalence rate.html
+  articles/Primary data: Primary data.html
+  articles/Process indicator: Process indicator.html
+  articles/Process of validation: Process of validation.html
+  articles/Processed health data: Processed health data.html
+  articles/Proportion: Proportion.html
+  articles/Proxy health indicator: Proxy health indicator.html
+  articles/Public health surveillance system: Public health surveillance system.html
+  articles/Publicly available: Publicly available.html
+  articles/Punctuality: Punctuality.html
+  articles/Quality-adjusted coverage: Quality-adjusted coverage.html
+  articles/Rate: Rate.html
+  articles/Ratio: Ratio.html
+  articles/Rationale: Rationale.html
+  articles/Raw health data: Raw health data.html
+  articles/Record linkage: Record linkage.html
+  articles/Register: Register.html
+  articles/Registrar: Registrar.html
+  articles/Registration form: Registration form.html
+  articles/Registry: Registry.html
+  articles/Regression: Regression.html
+  articles/Relevance: Relevance.html
+  articles/Reliability of data: Reliability of data.html
+  articles/Representativeness: Representativeness.html
+  articles/Response rate: Response rate.html
+  articles/Responsiveness: Responsiveness.html
+  articles/Results framework: Results framework.html
+  articles/Routine data: Routine data.html
+  articles/Routine health information system: Routine health information system.html
+  articles/Sample size: Sample size.html
+  articles/Sample: Sample.html
+  articles/Sampling error: Sampling error.html
+  articles/Secondary data: Secondary data.html
+  articles/Sensitivity analysis: Sensitivity analysis.html
+  articles/Sex: Sex.html
+  articles/Stakeholder: Stakeholder.html
+  articles/Standard operating procedures: Standard operating procedures.html
+  articles/Statistical model: Statistical model.html
+  articles/Statistical significance: Statistical significance.html
+  articles/Statistics: Statistics.html
+  articles/Stratification: Stratification.html
+  articles/Subnational: Subnational.html
+  articles/Surveillance: Surveillance.html
+  articles/Survey data: Survey data.html
+  articles/Survey: Survey.html
+  articles/Sustainability: Sustainability.html
+  articles/Sustainable Development Goals (SDGs): Sustainable Development Goals (SDGs).html
+  articles/Target population: Target population.html
+  Themes: Themes.html
+  articles/Timeliness: Timeliness.html
+  articles/Tracer indicator: Tracer indicator.html
+  articles/Transparency: Transparency.html
+  articles/Trend: Trend.html
+  articles/Uncertainty measure: Uncertainty measure.html
+  articles/Understandable or simplicty: Understandable or simplicty.html
+  articles/Unit of measure: Unit of measure.html
+  articles/Usefulness or Utility: Usefulness or Utility.html
+  articles/Validity: Validity.html
+  articles/Verbal autopsy: Verbal autopsy.html
+  articles/Vital event: Vital event.html
+  articles/Vital statistics: Vital statistics.html
+  articles/Weighting: Weighting.html
+  articles/Years lived with disability: Years lived with disability.html
+  articles/Years of life lost: Years of life lost.html
+last_built: 2026-09-24T04:34Z
+urls:
+  reference: https://openwashdata.github.io/glossarywho/reference
+  article: https://openwashdata.github.io/glossarywho/articles
