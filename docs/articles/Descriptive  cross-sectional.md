@@ -1,8 +1,0 @@
-# Descriptive cross-sectional
-
-## Descriptive cross-sectional
-
-epidemiological study that is useful for calculating the prevalence of
-self-reported events or events measured during the investigation,
-generally employing a representative sample from the population of
-interest (23).

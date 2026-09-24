@@ -1,8 +1,0 @@
-# Data quality
-
-## Data quality
-
-Data quality is a set of standards that data should reach to be usable.
-Quality data must encompass the following characteristics: relevance,
-credibility, accuracy, timeliness, punctuality, methodological
-soundness, coherence and accessibility (2).

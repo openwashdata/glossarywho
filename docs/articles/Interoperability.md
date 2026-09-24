@@ -1,9 +1,0 @@
-# Interoperability
-
-## Interoperability
-
-The ability of different applications to access, exchange, integrate and
-use data in a coordinated manner through the use of shared application
-interfaces and standards, within and across organizational, regional and
-national boundaries, to provide timely and seamless portability of
-information and optimize health outcomes (58).

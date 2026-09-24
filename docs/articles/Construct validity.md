@@ -1,9 +1,0 @@
-# Construct validity
-
-## Construct validity
-
-The degree to which a measurement aligns with related theoretical
-hypotheses, demonstrating that it accurately represents the underlying
-theoretical concept. It indicates how well the scores reflect the
-intended construct, ensuring the results are meaningful and relevant.
-Construct validity is commonly applied to process indicators (18).A

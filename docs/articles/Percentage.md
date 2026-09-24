@@ -1,5 +1,0 @@
-# Percentage
-
-## Percentage
-
-Number or ratio that can be expressed as a fraction of 100 (117).

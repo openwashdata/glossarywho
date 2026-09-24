@@ -1,8 +1,0 @@
-# Confidentiality
-
-## Confidentiality
-
-Refers to the ethical obligation of professionals, health institutions/
-organizations and other health workers to preserve authorized
-restrictions on access to – and disclosures of – sensitive personal
-information about individuals (16).

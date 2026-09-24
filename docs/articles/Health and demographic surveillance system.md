@@ -1,7 +1,0 @@
-# Health and demographic surveillance system
-
-## Health and demographic surveillance system
-
-Longitudinal data collection platforms that track births, deaths,
-migrations and socioeconomic and health circumstances over time in
-established geographic areas (79).A

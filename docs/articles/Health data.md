@@ -1,7 +1,0 @@
-# Health data
-
-## Health data
-
-Raw, unprocessed numbers, measurements, that relate directly to the
-health and well-being status of an individual or to the health services
-that the individual receives (23,80).

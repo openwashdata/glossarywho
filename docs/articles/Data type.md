@@ -1,7 +1,0 @@
-# Data type
-
-## Data type
-
-Defines the form of a data element. These can include simple data types
-such as date, time, numeric value or complex data types, such as
-addresses (48).

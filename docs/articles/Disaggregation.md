@@ -1,8 +1,0 @@
-# Disaggregation
-
-## Disaggregation
-
-Breaking down of observations to a more detailed level when finer
-details are required and made possible by the codes given to the primary
-observations. In health this often includes, sex, age, wealth quintile,
-education level, place of residence and occupation (23).

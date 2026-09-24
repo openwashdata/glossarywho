@@ -1,7 +1,0 @@
-# Punctuality
-
-## Punctuality
-
-The time lag between the release date of data and the target date on
-which they were scheduled for release as announced in an official
-release calendar (2).

@@ -1,8 +1,0 @@
-# Medical certification of cause of death
-
-## Medical certification of cause of death
-
-Describes the process of accurately identifying the sequence of events
-that lead to death. It includes also recording of causes that
-contributed to death but were not part of the sequence that led to death
-(10).

@@ -1,9 +1,0 @@
-# External consistency of data
-
-## External consistency of data
-
-An assessment of the level of agreement between two sources of data
-measuring the same health indicator. The two sources of data that are
-usually compared are data flowing through health management information
-systems or a programme- specific information system, and data from a
-periodic population-based survey (13).

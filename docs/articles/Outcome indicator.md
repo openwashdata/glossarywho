@@ -1,9 +1,0 @@
-# Outcome indicator
-
-## Outcome indicator
-
-Measures whether the programme is achieving the expected effects/changes
-in the short, intermediate and long term, such as changes in
-intervention coverage or health-related behaviours. Some programmes
-refer to their longest-term/ most distal outcome indicators as impact
-indicators (21).

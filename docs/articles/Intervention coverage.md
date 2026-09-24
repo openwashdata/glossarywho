@@ -1,8 +1,0 @@
-# Intervention coverage
-
-## Intervention coverage
-
-People receiving a specific service (i.e. treatment, care, activity to
-improve health) among those who need it. It requires a well-defined
-service that can be measured, and precise measurement of the population
-in need of that service (96).

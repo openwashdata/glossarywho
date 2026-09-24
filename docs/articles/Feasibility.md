@@ -1,7 +1,0 @@
-# Feasibility
-
-## Feasibility
-
-Refers to the availability of data to measure the indicator. If the data
-is available from existing health data at a reasonable cost and/or will
-not add additional burden to collect data (66).

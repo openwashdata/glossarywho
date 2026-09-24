@@ -1,6 +1,0 @@
-# Criterion validity
-
-## Criterion validity
-
-The extent to which a measurement correlates with an external criterion
-of the phenomenon under study; ideally, a gold standard (25).

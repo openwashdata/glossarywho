@@ -1,7 +1,0 @@
-# Register
-
-## Register
-
-A list or file containing uniform information about individual persons,
-collected in a systematic and comprehensive way, in order to serve a
-predetermined purpose (130).

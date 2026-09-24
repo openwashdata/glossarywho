@@ -1,9 +1,0 @@
-# Periodicity
-
-## Periodicity
-
-Data can be compiled continuously in systems such as civil registries,
-cancer registries and surveillance systems of reportable diseases. Data
-can also be compiled periodically, which is to say at regular intervals
-or without predefined periodicity, and at a particular point in time
-(23).A

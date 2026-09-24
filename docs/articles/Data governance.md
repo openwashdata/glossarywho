@@ -1,9 +1,0 @@
-# Data governance
-
-## Data governance
-
-The specification of decision rights and an accountability framework to
-ensure the appropriate behaviour in the valuation, creation, consumption
-and control of data and analytics. The rules, processes and behaviours
-related to the collection, management, analysis, use, sharing and
-disposal of personal and/or non-personal data (28,36).

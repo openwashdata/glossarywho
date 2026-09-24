@@ -1,7 +1,0 @@
-# Trend
-
-## Trend
-
-A pattern found in multiple standardized measurements over time; it is
-used to describe if the data is showing an upward or downward movement
-for a specified time period (148).

@@ -1,9 +1,0 @@
-# Ecological fallacy
-
-## Ecological fallacy
-
-An erroneous inference that may occur because an association observed
-between variables on an aggregate level does not necessarily represent
-or reflect the association that exists at an individual level; a causal
-relationship that exists on a group level or among groups may not exist
-among the group individuals (17).

@@ -1,8 +1,0 @@
-# Survey data
-
-## Survey data
-
-A survey is an investigation about the characteristics of a given
-population by means of collecting data from a sample of that population
-and estimating their characteristics through the systematic use of
-statistical methodology (145).

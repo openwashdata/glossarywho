@@ -1,9 +1,0 @@
-# Digital health
-
-## Digital health
-
-The systematic application of information and communication
-technologies, computer science, and data to support informed
-decision-making by individuals, the health workforce and health systems,
-in order to strengthen resilience to disease and improve health and
-wellness (58).

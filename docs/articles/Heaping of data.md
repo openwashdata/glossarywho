@@ -1,9 +1,0 @@
-# Heaping of data
-
-## Heaping of data
-
-A measure of the tendency of respondents to report numerical values
-using preferred numbers or specific intervals when providing estimates,
-such as age of disease diagnosis or date of events (e.g. birthweights
-reported on 2000g or 2500g) or rounded (i.e. ending in ‘00’ or ‘50’)
-(89).

@@ -1,7 +1,0 @@
-# Data
-
-## Data
-
-Basic, often unprocessed analogue or digital elements, characteristics
-or representations of facts or information. This includes raw,
-unprocessed numbers, measurements or text (23,26,27).
