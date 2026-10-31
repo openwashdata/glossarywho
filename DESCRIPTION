@@ -18,7 +18,8 @@ RoxygenNote: 7.3.2
 Language: en-GB
 Config/Needs/website: rmarkdown, dplyr, readr, stringr, gt, kableExtra, ggplot2, tidyverse, wordcloud, tm
 Date: 2025-01-28
-URL: https://openwashdata.github.io/glossarywho/, https://github.com/openwashdata/glossarywho
+URL: https://openwashdata.github.io/glossarywho/,
+    https://github.com/openwashdata/glossarywho
 BugReports: https://github.com/openwashdata/glossarywho/issues
 Suggests: 
     knitr,
@@ -27,3 +28,13 @@ VignetteBuilder: knitr
 X-schema.org-keywords: open data, washdata, glossary, health data, health statistics, public health indicators, data governance, WHO
 X-schema.org-spatialCoverage: Global
 X-schema.org-temporalCoverage: 2025-01-01/2025-12-31
+Config/washr/funding: This project was funded by the [Open Research Data Program of the ETH Board](https://ethrat.ch/en/eth-domain/open-research-data/).
+Config/washr/analytics-domain: openwashdata.github.io
+Config/washr/doi-provider: zenodo
+Config/washr/zenodo-community: openwashdata
+Config/washr/brand-source: openwashdata/brand
+Config/washr/publisher: Published by [openwashdata](https://openwashdata.org), a project of [Global Health Engineering](https://ghe.ethz.ch/) at ETH Zurich.
+Config/washr/home: https://openwashdata.org
+Config/washr/catalog: https://openwashdata.org/pages/gallery/data/
+Config/washr/community: This package is part of [openwashdata](https://openwashdata.org). Browse the [data catalogue](https://openwashdata.org/pages/gallery/data/) or get the [newsletter](https://openwashdata.org/pages/newsletter/).
+Config/washr/version: 1.2.1
