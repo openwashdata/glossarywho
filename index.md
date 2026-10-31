@@ -3,6 +3,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14754016.svg)](https://zenodo.org/doi/10.5281/zenodo.14754016)
 [![R-CMD-check](https://github.com/openwashdata/glossarywho/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/glossarywho/actions/workflows/R-CMD-check.yaml)
 
+A data package published by [openwashdata](https://openwashdata.org).
+
 The goal of glossarywho is to provide data from the [WHO
 Glossary](https://www.who.int/publications/i/item/9789240105485) in a
 tidy format. Access definitions by themes
