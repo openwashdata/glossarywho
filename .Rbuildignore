@@ -13,3 +13,5 @@
 ^CITATION\.cff$
 ^vignettes/articles$
 ^Python$
+^_brand\.yml$
+^logos$
